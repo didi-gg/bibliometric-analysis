@@ -1,0 +1,139 @@
+
+OWN - ERIC
+TI  - A Decision Support System for Predicting Students' Performance
+AU  - Livieris, Ioannis E.
+AU  - Mikropoulos, Tassos A.
+AU  - Pintelas, Panagiotis
+OT  - Predictive Measurement
+OT  - Decision Support Systems
+OT  - Academic Achievement
+OT  - Exit Examinations
+OT  - Prediction
+OT  - Predictive Validity
+OT  - Database Management Systems
+OT  - Student Evaluation
+OT  - Data Analysis
+OT  - Secondary School Mathematics
+OT  - Database Design
+OT  - Computer System Design
+OT  - Courseware
+OT  - Foreign Countries
+JT  - Themes in Science and Technology Education
+SO  - v9 n1 p43-57 2016
+OID - EJ1130918
+VI  - 9
+IP  - 1
+PG  - 43-57
+DP  - 2016
+LID - http://eric.ed.gov/?id=EJ1130918
+AB  - Educational data mining is an emerging research field concerned with developing methods for exploring the unique types of data that come from educational context. These data allow the educational stakeholders to discover new, interesting and valuable knowledge about students. In this paper, we present a new user-friendly decision support tool for predicting students' performance concerning the final examinations of a school year. Our proposed tool is based on a hybrid predicting system incorporating a number of possible machine learning methods and achieves better performance than any examined single learning algorithm. Furthermore, significant advantages of the presented tool are that it has a simple interface and it can be deployed in any platform under any operating system. Our objective is that this work may be used to support student admission procedures and strengthen the service system in educational institutions.
+ISSN - EISSN-1792-8788
+LA  - English
+PT  - Journal Articles
+PT  - Reports - Research
+
+OWN - ERIC
+TI  - Predictive Modeling to Forecast Student Outcomes and Drive Effective Interventions in Online Community College Courses
+AU  - Smith, Vernon C.
+AU  - Lange, Adam
+AU  - Huston, Daniel R.
+OT  - Academic Achievement
+OT  - At Risk Students
+OT  - Prediction
+OT  - Community Colleges
+OT  - Online Courses
+OT  - Two Year College Students
+OT  - Predictive Measurement
+OT  - Predictor Variables
+OT  - Models
+OT  - Case Studies
+OT  - School Holding Power
+OT  - College Freshmen
+OT  - Accounting
+OT  - Decision Making
+OT  - Data
+OT  - Data Analysis
+OT  - Computer Software
+OT  - Computer Managed Instruction
+OT  - Educational Technology
+OT  - Computer System Design
+OT  - Databases
+OT  - Decision Support Systems
+OT  - Distance Education
+OT  - Web Based Instruction
+OT  - College Instruction
+OT  - Integrated Learning Systems
+JT  - Journal of Asynchronous Learning Networks
+SO  - v16 n3 p51-61 Jun 2012
+AID - http://sloanconsortium.org/jaln/v16n3/predictive-modeling-forecast-student-outcomes-and-drive-effective-interventions-online-co
+OID - EJ982673
+VI  - 16
+IP  - 3
+PG  - 51-61
+DP  - Jun 2012
+LID - http://eric.ed.gov/?id=EJ982673
+AB  - Community colleges continue to experience growth in online courses. This growth reflects the need to increase the numbers of students who complete certificates or degrees. Retaining online students, not to mention assuring their success, is a challenge that must be addressed through practical institutional responses. By leveraging existing student information, higher education institutions can build statistical models, or learning analytics, to forecast student outcomes. This is a case study from a community college utilizing learning analytics and the development of predictive models to identify at-risk students based on dozens of key variables. (Contains 4 tables and 3 figures.)
+ISSN - ISSN-1939-5256
+LA  - English
+PT  - Journal Articles
+PT  - Reports - Research
+
+OWN - ERIC
+TI  - Machine-Learned School Dropout Early Warning at Scale
+AU  - Christie, S. Thomas
+AU  - Jarratt, Daniel C.
+AU  - Olson, Lukas A.
+AU  - Taijala, Taavi T.
+OT  - Dropout Prevention
+OT  - At Risk Students
+OT  - Artificial Intelligence
+OT  - Decision Support Systems
+OT  - Prediction
+OT  - Student Records
+OT  - Enrollment
+OT  - Information Systems
+OT  - Models
+OT  - Middle School Students
+OT  - High School Students
+OT  - Statistical Analysis
+JT  - International Educational Data Mining Society
+SO  - Paper presented at the International Conference on Educational Data Mining (EDM) (12th, Montreal, Canada, Jul 2-5, 2019)
+OID - ED599217
+DP  - 2019
+LID - http://eric.ed.gov/?id=ED599217
+AB  - Schools across the United States suffer from low on-time graduation rates. Targeted interventions help at-risk students meet graduation requirements in a timely manner, but identifying these students takes time and practice, as warning signs are often context-specific and reflected in a combination of attendance, social, and academic signals scattered across data sources. Extremely high caseloads for counselors compound the problem. At Infinite Campus, a large student information system provider, we modeled statistical relationships between student educational records and enrollment outcomes, using de-identified records and in-system analysis to guarantee student data privacy. The resulting risk scores are highly predictive, context-sensitive, nationally available, integrated into the existing student information system, and updated daily. [For the full proceedings, see ED599096.]
+PT  - Speeches/Meeting Papers
+PT  - Reports - Research
+
+OWN - ERIC
+TI  - Can the Paths of Successful Students Help Other Students with Their Course Enrollments?
+AU  - Wagner, Kerstin
+AU  - Merceron, Agathe
+AU  - Sauer, Petra
+AU  - Pinkwart, Niels
+OT  - College Freshmen
+OT  - At Risk Students
+OT  - Dropouts
+OT  - Dropout Programs
+OT  - Success
+OT  - Academic Achievement
+OT  - Course Selection (Students)
+OT  - Artificial Intelligence
+OT  - Information Systems
+OT  - Technology Uses in Education
+OT  - Decision Support Systems
+OT  - Low Achievement
+OT  - Program Effectiveness
+OT  - Incidence
+OT  - Enrollment
+OT  - Predictor Variables
+OT  - Peer Influence
+JT  - International Educational Data Mining Society
+SO  - Paper presented at the International Conference on Educational Data Mining (EDM) (16th, Bengaluru, India, Jul 11-14, 2023)
+OID - ED630847
+DP  - 2023
+LID - http://eric.ed.gov/?id=ED630847
+AB  - In this paper, we present an extended evaluation of a course recommender system designed to support students who struggle in the first semesters of their studies and are at risk of dropping out. The system, which was developed in earlier work using a student-centered design and which is based on the explainable k-nearest neighbor algorithm, recommends a set of courses that have been passed by the majority of the student's nearest neighbors who have completed their studies. The present evaluation is based on the data of students from three different study programs. One result is that the recommendations do lower the dropout risk. We also discovered that while the recommended courses differed from those taken by students who dropped out, they matched quite well with courses taken by students who completed the degree program. Although the course recommender system targets primarily students at risk, students doing well could use it. Furthermore, we found that the number of recommended courses for struggling students is less than the number of courses they actually enrolled in. This suggests that the recommendations given indicate a different and hopefully feasible path through the study program for students at risk of dropping out. [For the complete proceedings, see ED630829.]
+PT  - Speeches/Meeting Papers
+PT  - Reports - Research
+

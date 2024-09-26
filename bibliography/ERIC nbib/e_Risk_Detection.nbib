@@ -1,0 +1,251 @@
+
+OWN - ERIC
+TI  - Formative Assessment Tasks as Indicators of Student Engagement for Predicting At-Risk Students in Programming Courses
+AU  - Veerasamy, Ashok Kumar
+AU  - Laakso, Mikko-Jussi
+AU  - D'Souza, Daryl
+OT  - Formative Evaluation
+OT  - Educational Indicators
+OT  - Learner Engagement
+OT  - At Risk Students
+OT  - Prediction
+OT  - Programming
+OT  - Computer Science Education
+OT  - Academic Achievement
+JT  - Informatics in Education
+SO  - v21 n2 p375-393 2022
+OID - EJ1347524
+VI  - 21
+IP  - 2
+PG  - 375-393
+DP  - 2022
+LID - http://eric.ed.gov/?id=EJ1347524
+AB  - Previous studies have proposed many indicators to assess the effect of student engagement in learning and academic achievement but have not yet been clearly articulated. In addition, while student engagement tracking systems have been designed, they rely on the log data but not on performance data. This paper presents results of a non-machine learning model developed using ongoing formative assessment scores as indicators of student engagement. Visualisation of the classification tree results is employed as student engagement indicators for instructors to observe and intervene with students. The results of this study showed that ongoing assessment is related to student engagement and subsequent final programming exam performance and possible to identify students at-risk of failing the final exam. Finally, our study identified students impacted by the COVID-19 pandemic. These were students who attended the final programming exam in the semester 2019-2020 and who scored well in formative assessments. Based on these results we present a simple student engagement indicator and its potential application as a student progress monitor for early identification of students at risk.
+ISSN - ISSN-1648-5831
+ISSN - EISSN-2335-8971
+LA  - English
+PT  - Journal Articles
+PT  - Reports - Research
+
+OWN - ERIC
+TI  - Using Learner Analytics to Explore the Potential Contribution of Multimodal Formative Assessment to Academic Success in Higher Education
+AU  - Kohnke, Lucas
+AU  - Foung, Dennis
+AU  - Chen, Julia
+OT  - Formative Evaluation
+OT  - Higher Education
+OT  - Outcomes of Education
+OT  - Learning Analytics
+OT  - Prediction
+OT  - At Risk Students
+OT  - Identification
+OT  - English for Academic Purposes
+OT  - Second Language Learning
+OT  - Second Language Instruction
+OT  - Foreign Countries
+OT  - Blended Learning
+OT  - Teaching Methods
+OT  - Integrated Learning Systems
+OT  - Learner Engagement
+OT  - Undergraduate Students
+OT  - Multimedia Materials
+OT  - Evaluation Methods
+OT  - Language Tests
+OT  - Academic Achievement
+JT  - SAGE Open
+SO  - v12 n2 Apr-Jun 2022
+AID - http://dx.doi.org/10.1177/21582440221089957
+OID - EJ1351197
+VI  - 12
+IP  - 2
+DP  - Apr-Jun 2022
+LID - http://eric.ed.gov/?id=EJ1351197
+AB  - Blended learning pedagogical practices supported by learning management systems have become an important part of higher education curricula. In most cases, these blended curricula are evaluated through multimodal formative assessments. Although assessments can strongly affect student outcomes, research on the topic is limited. In this paper, we adopted a learning analytics approach to explore student engagement with formative assessments and the power of these assessments to predict student outcomes in an English for Academic Purposes courses in a Hong Kong university. The study retrieved the data logs from 7,815 students and used the data to analyze student engagement with the formative assessments. The results suggested that the students put effort into completing the assessments. The degree to which assessments predict learning outcomes depend on students' level of subject knowledge and their understanding of the relevance of the assessments. This study showed that learning analytics provided reliable evidence for understanding students' engagement and identifying at-risk students. Therefore, learning analytics research has the potential to inform pedagogical practice.
+ISSN - EISSN-2158-2440
+LA  - English
+PT  - Journal Articles
+PT  - Reports - Research
+
+OWN - ERIC
+TI  - i-Ntervene: Applying an Evidence-Based Learning Analytics Intervention to Support Computer Programming Instruction
+AU  - Utamachant, Piriya
+AU  - Anutariya, Chutiporn
+AU  - Pongnumkul, Suporn
+OT  - Intervention
+OT  - Learning Analytics
+OT  - Learning Management Systems
+OT  - Programming
+OT  - Learner Engagement
+OT  - Comprehension
+OT  - At Risk Students
+OT  - Evidence Based Practice
+OT  - College Freshmen
+OT  - Educational Technology
+OT  - Electronic Learning
+OT  - Student Motivation
+JT  - Smart Learning Environments
+SO  - v10 Article 37 2023
+AID - http://dx.doi.org/10.1186/s40561-023-00257-7
+OID - EJ1385865
+VI  - 10
+DP  - Article 37 2023
+LID - http://eric.ed.gov/?id=EJ1385865
+AB  - Apart from good instructional design and delivery, effective intervention is another key to strengthen student academic performance. However, intervention has been recognized as a great challenge. Most instructors struggle to identify at-risk students, determine a proper intervention approach, trace and evaluate whether the intervention works. This process requires extensive effort and commitment, which is impractical especially for large classes with few instructors. This paper proposes a platform, namely "i-Ntervene," that integrates Learning Management System (LMS) automatic code grader, and learning analytics features which can empower systematic learning intervention for large programming classes. The platform supports instructor-pace courses on both Virtual Learning Environment (VLE) and traditional classroom setting. The platform iteratively assesses student engagement levels through learning activity gaps. It also analyzes subject understanding from programming question practices to identify at-risk students and suggests aspects of intervention based on their lagging in these areas. Students' post-intervention data are traced and evaluated quantitatively to determine effective intervention approaches. This evaluation method aligns with the evidence-based research design. The developed i-Ntervene prototype was tested on a Java programming course with 253 first-year university students during the COVID-19 pandemic in VLE. The result was satisfactory, as the instructors were able to perform and evaluate 12 interventions throughout a semester. For this experimental course, the platform revealed that the approach of sending extrinsic motivation emails had more impact in promoting learning behavior compared to other types of messages. It also showed that providing tutorial sessions was not an effective approach to improving students' subject understanding in complex algorithmic topics. i-Ntervene allows instructors to flexibly trial potential interventions to discover the optimal approach for their course settings which should boost student's learning outcomes in long term.
+ISSN - EISSN-2196-7091
+LA  - English
+PT  - Journal Articles
+PT  - Reports - Research
+
+OWN - ERIC
+TI  - Integration of Artificial Intelligence Performance Prediction and Learning Analytics to Improve Student Learning in Online Engineering Course
+AU  - Ouyang, Fan
+AU  - Wu, Mian
+AU  - Zheng, Luyi
+AU  - Zhang, Liyin
+AU  - Jiao, Pengcheng
+OT  - Technology Integration
+OT  - Artificial Intelligence
+OT  - Performance
+OT  - Prediction
+OT  - Learning Analytics
+OT  - Educational Improvement
+OT  - Academic Achievement
+OT  - Online Courses
+OT  - Engineering Education
+OT  - Cooperative Learning
+OT  - Instructional Design
+OT  - Student Centered Learning
+OT  - At Risk Students
+OT  - Student Satisfaction
+OT  - Models
+JT  - International Journal of Educational Technology in Higher Education
+SO  - v20 Article 4 2023
+AID - http://dx.doi.org/10.1186/s41239-022-00372-4
+OID - EJ1362228
+VI  - 20
+DP  - Article 2023
+LID - http://eric.ed.gov/?id=EJ1362228
+AB  - As a cutting-edge field of artificial intelligence in education (AIEd) that depends on advanced computing technologies, AI performance prediction model is widely used to identify at-risk students that tend to fail, establish student-centered learning pathways, and optimize instructional design and development. A majority of the existing AI prediction models focus on the development and optimization of the accuracy of AI algorithms rather than applying AI models to provide student with in-time and continuous feedback and improve the students' learning quality. To fill this gap, this research integrated an AI performance prediction model with learning analytics approaches with a goal to improve student learning effects in a collaborative learning context. Quasi-experimental research was conducted in an online engineering course to examine the differences of students' collaborative learning effect with and without the support of the integrated approach. Results showed that the integrated approach increased student engagement, improved collaborative learning performances, and strengthen student satisfactions about learning. This research made contributions to proposing an integrated approach of AI models and learning analytics (LA) feedback and providing paradigmatic implications for future development of AI-driven learning analytics.
+ISSN - EISSN-2365-9440
+LA  - English
+PT  - Journal Articles
+PT  - Reports - Research
+PT  - Tests/Questionnaires
+
+OWN - ERIC
+TI  - Toward Better Grade Prediction via A2GP -- An Academic Achievement Inspired Predictive Model
+AU  - Qiu, Wei
+AU  - Supraja, S.
+AU  - Khong, Andy W. H.
+OT  - Academic Achievement
+OT  - Prediction
+OT  - Grades (Scholastic)
+OT  - Models
+OT  - At Risk Students
+OT  - Identification
+OT  - Undergraduate Students
+JT  - International Educational Data Mining Society
+SO  - Paper presented at the International Conference on Educational Data Mining (EDM) (15th, Durham, United Kingdom, Jul 24-27, 2022)
+OID - ED624110
+DP  - 2022
+LID - http://eric.ed.gov/?id=ED624110
+AB  - Predicting student performance in an academic institution is important for detecting at-risk students and administering early-intervention strategies. We propose a new grade prediction model that considers three factors: temporal dynamics of prior courses across previous semesters, short-term performance consistency, and relative performance against peers. The proposed architecture comprises modules that incorporate the attention mechanism, a new short-term gated long short-term memory network, and a graph convolutional network to address limitations of existing works that fail to consider the above factors jointly. A weighted fusion layer is used to fuse learned representations of the above three modules--course importance, performance consistency, and relative performance. The aggregated representations are then used for grade prediction which, in turn, is used to classify at-risk students. Experiment results using three datasets obtained from over twenty thousand students across seventeen undergraduate courses show that the proposed model achieves low prediction errors and high F1 scores compared to existing models that predict grades and thereafter identifies at-risk students via a pre-defined threshold. [For the full proceedings, see ED623995.]
+PT  - Speeches/Meeting Papers
+PT  - Reports - Research
+
+OWN - ERIC
+TI  - Being More Human: Rooting Learning Analytics through "Re"sistance and "Re"connection with the Values of Higher Education
+AU  - Parkes, Sarah
+AU  - Benkwitz, Adam
+AU  - Bardy, Helen
+AU  - Myler, Kerry
+AU  - Peters, John
+OT  - Learning Analytics
+OT  - Higher Education
+OT  - Educational Objectives
+OT  - Foreign Countries
+OT  - School Holding Power
+OT  - Academic Achievement
+OT  - Values
+OT  - Neoliberalism
+OT  - Student Experience
+OT  - College Students
+JT  - Higher Education Research and Development
+SO  - v39 n1 p113-126 2020
+AID - http://dx.doi.org/10.1080/07294360.2019.1677569
+OID - EJ1239028
+VI  - 39
+IP  - 1
+PG  - 113-126
+DP  - 2020
+LID - http://eric.ed.gov/?id=EJ1239028
+AB  - Universities are now compelled to attend to metrics that (re)shape our conceptualisation of the student experience. New technologies such as learning analytics (LA) promise the ability to target personalised support to profiled 'at risk' students through mapping large-scale historic student engagement data such as attendance, library use, and virtual learning environment activity as well as demographic information and typical student outcomes. Yet serious ethical and implementation issues remain. Data-driven labelling of students as 'high risk', 'hard to reach' or 'vulnerable' creates conflict between promoting personal growth and human flourishing and treating people merely as data points. This article argues that universities must resist the assumption that numbers and algorithms alone can solve the 'problem' of student retention and performance; rather, LA work must be underpinned by a reconnection with the agreed values relating to the purpose of higher education, including democratic engagement, recognition of diverse and individual experience, and processes of becoming. Such a reconnection, this article contends, is possible when LA work is designed and implemented in genuine collaboration and partnership with students.
+ISSN - ISSN-0729-4360
+LA  - English
+PT  - Journal Articles
+PT  - Reports - Evaluative
+
+OWN - ERIC
+TI  - A Comprehensive Survey on Usage of Learning Analytics for Enhancing Learner's Performance in Learning Portals
+AU  - Shabnam Ara, S. J.
+AU  - Tanuja, R.
+AU  - Manjula, S. H.
+AU  - Venugopal, K. R.
+OT  - Learning Analytics
+OT  - Learning Management Systems
+OT  - Academic Achievement
+OT  - Prediction
+OT  - Student Improvement
+OT  - Learning Activities
+OT  - At Risk Students
+OT  - MOOCs
+OT  - Intervention
+JT  - Journal of Educational Technology Systems
+SO  - v52 n2 p245-273 2023
+AID - http://dx.doi.org/10.1177/00472395231185843
+OID - EJ1399343
+VI  - 52
+IP  - 2
+PG  - 245-273
+DP  - 2023
+LID - http://eric.ed.gov/?id=EJ1399343
+AB  - Learning analytics (LA) is considered a promising field of study as it's helping to improve learning and the context in which it occurs. A learner's performance can be defined as how well students are learning in terms of knowledge and skills development and can be analyzed based on students' outcomes and engagement in the course. We have consolidated the work carried out from 2011 to 2022 to improve learners' performance using LA, describe criteria that define learners' performance, discuss parameters that impact learners' performance, and how predictive models can be created to forecast learners' performance using these parameters. Results showed that the data collected from log files of the Learning Management System (LMS) had been used to get insights into the learner's performance in online platforms and LA could bring incredible benefits in the field of the education sector, such as improvement of learners' involvement with learning activities as well as learning outcomes, identification of students at risk, providing real-time feedback, and personalization of learning. Hence, we can say usage of LA significantly helps learners' performance improvement in learning portals. But we can get better results if we augment data from log files of LMS with the learner's personal data from his birth to the current moment, which is a bit challenging with respect to data collection i.e., huge and from multiple sources.
+ISSN - ISSN-0047-2395
+ISSN - EISSN-1541-3810
+LA  - English
+PT  - Journal Articles
+PT  - Information Analyses
+PT  - Reports - Research
+
+OWN - ERIC
+TI  - Identifying Factors of Students' Failure in Blended Courses by Analyzing Students' Engagement Data
+AU  - Georgakopoulos, Ioannis
+AU  - Chalikias, Miltiadis
+AU  - Zakopoulos, Vassilis
+AU  - Kossieri, Evangelia
+OT  - Academic Failure
+OT  - Blended Learning
+OT  - Learner Engagement
+OT  - Student Participation
+OT  - Learning Analytics
+OT  - Integrated Learning Systems
+OT  - Electronic Learning
+OT  - Performance Factors
+OT  - Models
+OT  - At Risk Students
+OT  - College Students
+OT  - Grades (Scholastic)
+OT  - Identification
+OT  - Foreign Countries
+OT  - Academic Achievement
+JT  - Education Sciences
+SO  - v10 Article 242 2020
+OID - EJ1271891
+VI  - 10
+DP  - Article 242 2020
+LID - http://eric.ed.gov/?id=EJ1271891
+AB  - Our modern era has brought about radical changes in the way courses are delivered and various teaching methods are being introduced to answer the purpose of meeting the modern learning challenges. On that account, the conventional way of teaching is giving place to a teaching method which combines conventional instructional strategies with contemporary learning trends. Thereby, a new course type has emerged, the blended course in the context of which online teaching and conventional instruction are efficiently mixed. This paper demonstrates a way to identify factors affecting students' critical performance in blended courses through a binary logistics regression analysis on students' engagement data. The binary logistics regression analysis has led to a risk model which identifies and prioritizes these factors in proportion to their contribution to the risk occurrence. The risk model is demonstrated in the context of two specific blended courses sharing the same learning design. Additionally, the outcome of the study has proved that factors related to the e-learning part have critically affected the students' performance in the respective blended courses.
+ISSN - EISSN-2227-7102
+PT  - Journal Articles
+PT  - Reports - Research
+

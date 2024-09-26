@@ -1,0 +1,2018 @@
+
+OWN - ERIC
+TI  - Early Prediction of Student Engagement in Virtual Learning Environments Using Machine Learning Techniques
+AU  - Raj, Nisha S.
+AU  - V. G., Renumol
+OT  - Foreign Countries
+OT  - Learner Engagement
+OT  - Virtual Classrooms
+OT  - Artificial Intelligence
+OT  - Man Machine Systems
+OT  - Learning Analytics
+OT  - Predictor Variables
+OT  - Distance Education
+OT  - Students
+JT  - E-Learning and Digital Media
+SO  - v19 n6 p537-554 Nov 2022
+AID - http://dx.doi.org/10.1177/20427530221108027
+OID - EJ1352153
+VI  - 19
+IP  - 6
+PG  - 537-554
+DP  - Nov 2022
+LID - http://eric.ed.gov/?id=EJ1352153
+AB  - Learning analytics aims at helping the students to attain their learning goals. The predictions in learning analytics are made to enhance the effectiveness of educational interferences. This study predicts student engagement at an early phase of a Virtual Learning Environment (VLE) course by analyzing data collected from consecutive years. The prediction model is developed using machine learning techniques applied to a subset of Open University Learning Analytics Dataset, provided by Open University (OU), Britain. The investigated data belongs to 7,775 students who attended social science courses for consecutive assessment years. The experiments are conducted with a reduced feature set to predict whether the students are highly or lowly engaged in the courses. The attributes indicating students' interaction with the VLE, their scores, and final results are the most contributing variables for the predictive analysis. Based on these variables, a reduced feature vector is constructed. The baseline used in the study is the linear regression model. The model's best results showed 95% accurate, 95% precise, and 98% relevant results with the Random Forest classification algorithm. Early prediction's relevant features are a subset of click activities, which provided a functional interface between the students and the VLE.
+ISSN - EISSN-2042-7530
+LA  - English
+PT  - Journal Articles
+PT  - Reports - Research
+
+OWN - ERIC
+TI  - Toward Precision Education: Educational Data Mining and Learning Analytics for Identifying Students' Learning Patterns with Ebook Systems
+AU  - Yang, Christopher C. Y.
+AU  - Chen, Irene Y. L.
+AU  - Ogata, Hiroaki
+OT  - Learning Analytics
+OT  - Individualized Instruction
+OT  - Instructional Materials
+OT  - Books
+OT  - Electronic Learning
+OT  - Learning Strategies
+OT  - Behavior Patterns
+OT  - Undergraduate Students
+OT  - Accounting
+JT  - Educational Technology & Society
+SO  - v24 n1 p152-163 Jan 2021
+AID - https://www.j-ets.net/collection/published-issues/24_1
+OID - EJ1292957
+VI  - 24
+IP  - 1
+PG  - 152-163
+DP  - Jan 2021
+LID - http://eric.ed.gov/?id=EJ1292957
+AB  - Precision education is now recognized as a new challenge of applying artificial intelligence, machine learning, and learning analytics to improve both learning performance and teaching quality. To promote precision education, digital learning platforms have been widely used to collect educational records of students' behavior, performance, and other types of interaction. On the other hand, the increasing volume of students' learning behavioral data in virtual learning environments provides opportunities for mining data on these students' learning patterns. Accordingly, identifying students' online learning patterns on various digital learning platforms has drawn the interest of the learning analytics and educational data mining research communities. In this study, the authors applied data analytics methods to examine the learning patterns of students using an ebook system for one semester in an undergraduate course. The authors used a clustering approach to identify subgroups of students with different learning patterns. Several subgroups were identified, and the students' learning patterns in each subgroup were determined accordingly. In addition, the association between these students' learning patterns and their learning outcomes from the course was investigated. The findings of this study provide educators opportunities to predict students' learning outcomes by analyzing their online learning behaviors and providing timely intervention for improving their learning experience, which achieves one of the goals of learning analytics as part of precision education.
+ISSN - EISSN-1436-4522
+LA  - English
+PT  - Journal Articles
+PT  - Reports - Research
+
+OWN - ERIC
+TI  - Standing on the Shoulders of Giants: Online Formative Assessments as the Foundation for Predictive Learning Analytics Models
+AU  - Bulut, Okan
+AU  - Gorgun, Guher
+AU  - Yildirim-Erbasli, Seyma N.
+AU  - Wongvorachan, Tarid
+AU  - Daniels, Lia M.
+AU  - Gao, Yizhu
+AU  - Lai, Ka Wing
+AU  - Shin, Jinnie
+OT  - Formative Evaluation
+OT  - Learning Analytics
+OT  - Models
+OT  - Learning Management Systems
+OT  - Grade Prediction
+OT  - Undergraduate Students
+OT  - Online Courses
+OT  - Evaluation Methods
+JT  - British Journal of Educational Technology
+SO  - v54 n1 p19-39 Jan 2023
+AID - http://dx.doi.org/10.1111/bjet.13276
+OID - EJ1364113
+VI  - 54
+IP  - 1
+PG  - 19-39
+DP  - Jan 2023
+LID - http://eric.ed.gov/?id=EJ1364113
+AB  - As universities around the world have begun to use learning management systems (LMSs), more learning data have become available to gain deeper insights into students' learning processes and make data-driven decisions to improve student learning. With the availability of rich data extracted from the LMS, researchers have turned much of their attention to learning analytics (LA) applications using educational data mining techniques. Numerous LA models have been proposed to predict student achievement in university courses. To design predictive LA models, researchers often follow a data-driven approach that prioritizes prediction accuracy while sacrificing theoretical links to learning theory and its pedagogical implications. In this study, we argue that instead of complex variables (e.g., event logs, clickstream data, timestamps of learning activities), data extracted from online formative assessments should be the starting point for building predictive LA models. Using the LMS data from multiple offerings of an asynchronous undergraduate course, we analysed the utility of online formative assessments in predicting students' final course performance. Our findings showed that the features extracted from online formative assessments (e.g., completion, timestamps and scores) served as strong and significant predictors of students' final course performance. Scores from online formative assessments were consistently the strongest predictor of student performance across the three sections of the course. The number of clicks in the LMS and the time difference between first access and due dates of formative assessments were also significant predictors. Overall, our findings emphasize the need for online formative assessments to build predictive LA models informed by theory and learning design.
+ISSN - ISSN-0007-1013
+ISSN - EISSN-1467-8535
+LA  - English
+PT  - Journal Articles
+PT  - Reports - Research
+
+OWN - ERIC
+TI  - A Data Mining Approach Using Machine Learning Algorithms For Early Detection of Low-Performing Students
+AU  - Khor, Ean Teng
+OT  - Prediction
+OT  - Low Achievement
+OT  - Algorithms
+OT  - Artificial Intelligence
+OT  - Information Retrieval
+OT  - Pattern Recognition
+OT  - Data Analysis
+OT  - MOOCs
+JT  - International Journal of Information and Learning Technology
+SO  - v39 n2 p122-132 2022
+AID - http://dx.doi.org/10.1108/IJILT-09-2021-0144
+OID - EJ1360928
+VI  - 39
+IP  - 2
+PG  - 122-132
+DP  - 2022
+LID - http://eric.ed.gov/?id=EJ1360928
+AB  - Purpose: The purpose of the study is to build predictive models for early detection of low-performing students and examine the factors that influence massive open online courses students' performance. Design/methodology/approach: For the first step, the author performed exploratory data analysis to analyze the dataset. The process was then followed by data pre-processing and feature engineering (Step 2). Next, the author conducted data modelling and prediction (Step 3). Finally, the performance of the developed models was evaluated (Step 4). Findings: The paper found that the decision trees algorithm outperformed other machine learning algorithms. The study also confirms the significant effect of the academic background and virtual learning environment (VLE) interactions feature categories to academic performance. The accuracy enhancement is 17.66% for decision trees classifier, 3.49% for logistic regression classifier and 4.89% for neural networks classifier. Based on the results of "CorrelationAttributeEval" technique with the use of a ranker search method, the author found that the "assessment_score" and "sum_click" features are more important among academic background and VLE interactions feature categories for the classification analysis in predicting students' academic performance. Originality/value: The work meets the originality requirement.
+ISSN - ISSN-2056-4880
+LA  - English
+PT  - Journal Articles
+PT  - Reports - Research
+
+OWN - ERIC
+TI  - Application of Educational Data Mining Approach for Student Academic Performance Prediction Using Progressive Temporal Data
+AU  - Trakunphutthirak, Ruangsak
+AU  - Lee, Vincent C. S.
+OT  - Information Retrieval
+OT  - Pattern Recognition
+OT  - Data Analysis
+OT  - Information Technology
+OT  - Academic Achievement
+OT  - Artificial Intelligence
+OT  - Integrated Learning Systems
+OT  - At Risk Students
+OT  - Student Characteristics
+OT  - Electronic Learning
+OT  - Time on Task
+OT  - Internet
+OT  - Web Sites
+OT  - Online Searching
+OT  - Predictor Variables
+JT  - Journal of Educational Computing Research
+SO  - v60 n3 p742-776 Jun 2022
+AID - http://dx.doi.org/10.1177/07356331211048777
+OID - EJ1342088
+VI  - 60
+IP  - 3
+PG  - 742-776
+DP  - Jun 2022
+LID - http://eric.ed.gov/?id=EJ1342088
+AB  - Educators in higher education institutes often use statistical results obtained from their online Learning Management System (LMS) dataset, which has limitations, to evaluate student academic performance. This study differs from the current body of literature by including an additional dataset that advances the knowledge about factors affecting student academic performance. The key aims of this study are fourfold. First, is to fill the educational literature gap by applying machine learning techniques in educational data mining, making use of the Internet usage behaviour log files and LMS data. Second, LMS data and Internet usage log files were analysed with machine learning techniques for predicting at-risk-of-failure students, with greater explanation added by combining student demographic data. Third, the demographic features help to explain the prediction in understandable terms for educators. Fourth, the study used a range of Internet usage data, which were categorized according to type of usage data and type of web browsing data to increase prediction accuracy.
+ISSN - ISSN-0735-6331
+LA  - English
+PT  - Journal Articles
+PT  - Reports - Research
+
+OWN - ERIC
+TI  - Prediction of Student Academic Performance Based on Their Emotional Wellbeing and Interaction on Various E-Learning Platforms
+AU  - Kukkar, Ashima
+AU  - Mohana, Rajni
+AU  - Sharma, Aman
+AU  - Nayyar, Anand
+OT  - Academic Achievement
+OT  - Mental Health
+OT  - Well Being
+OT  - Interaction
+OT  - Electronic Learning
+OT  - Higher Education
+OT  - College Students
+OT  - Prediction
+OT  - Accuracy
+OT  - Models
+OT  - Artificial Intelligence
+OT  - Tests
+OT  - Outcomes of Education
+OT  - Algorithms
+OT  - Bayesian Statistics
+JT  - Education and Information Technologies
+SO  - v28 n8 p9655-9684 Aug 2023
+AID - http://dx.doi.org/10.1007/s10639-022-11573-9
+OID - EJ1388193
+VI  - 28
+IP  - 8
+PG  - 9655-9684
+DP  - Aug 2023
+LID - http://eric.ed.gov/?id=EJ1388193
+AB  - Predicting student performance is crucial in higher education, as it facilitates course selection and the development of appropriate future study plans. The process of supporting the instructors and supervisors in monitoring students in order to upkeep them and combine training programs to get the best outcomes. It decreases the official warning signs and inefficient students' expulsions. Therefore, analysis of students' performance on various academic tests is critical for future skill development. Despite the fact that existing performance prediction systems based on Deep Learning (DL) technologies such as Artificial Neural Networks (ANN), Recurrent Neural Network (RNN) have outperformed Machine Learning (ML) -based systems in the prediction task, there are still a few issues. Ignorance of relevant features, analysis limitations to the existing amount of data points, and ambiguity in student records are only a few of these issues. This research proposes a novel Student Academic Performance Predicting (SAPP) system to address these issues and enhance prediction accuracy. It has a better architecture that uses a combination of 4-layer stacked Long Short Term Memory (LSTM) network, Random Forest (RF), and Gradient Boosting (GB) techniques to predict students' pass or fail outcomes. Additionally, the proposed SAPP system is compared to existing prediction systems using publicly accessible student OULAD dataset with an addition of self-curated emotional dataset. The performance of SAPP system is measured using Accuracy, Precision, F-measure, and Recall parameters. The results of proposed algorithm (LSTM + RF + B) is compared with LSTM + RF, LSTM + B and end to end DL models such as ANN, LSTM, RNN, Convolutional Neural Network (CNN) and most commonly utilized ML models in the literature such as Support Vector Machine (SVM), Decision Tree (DT), Naive Bayes (NB) and RF. The proposed SAPP system gained approximately 96% prediction accuracy that is comparatively higher than existing systems.
+ISSN - ISSN-1360-2357
+ISSN - EISSN-1573-7608
+LA  - English
+PT  - Journal Articles
+PT  - Reports - Research
+
+OWN - ERIC
+TI  - Predicting Students' Academic Performance by Mining the Educational Data through Machine Learning-Based Classification Model
+AU  - Nayak, Padmalaya
+AU  - Vaheed, Sk.
+AU  - Gupta, Surbhi
+AU  - Mohan, Neeraj
+OT  - Predictor Variables
+OT  - Academic Achievement
+OT  - Data Collection
+OT  - Information Retrieval
+OT  - Classification
+OT  - Electronic Learning
+OT  - Learning Processes
+OT  - Artificial Intelligence
+OT  - Algorithms
+OT  - Bayesian Statistics
+OT  - Accuracy
+JT  - Education and Information Technologies
+SO  - v28 n11 p14611-14637 2023
+AID - http://dx.doi.org/10.1007/s10639-023-11706-8
+OID - EJ1400798
+VI  - 28
+IP  - 11
+PG  - 14611-14637
+DP  - 2023
+LID - http://eric.ed.gov/?id=EJ1400798
+AB  - Students' academic performance prediction is one of the most important applications of Educational Data Mining (EDM) that helps to improve the quality of the education process. The attainment of student outcomes in an Outcome-based Education (OBE) system adds invaluable rewards to facilitate corrective measures to the learning processes. Furthermore, the explosive increase of e-learning platforms generates a large volume of data that demands the extraction of useful information using up-to-date techniques. Keeping this view in mind and to check the impact of various features on student outcomes during online classes, we have analyzed two sets of datasets; the Kalboard 360 dataset (a larger dataset) that contains academic, demographic as well as behavioral features which have been observed and recorded during the classes held and a local Institute dataset that does not acquire behavioral features. To achieve this, we have selected a few machine learning algorithms such as Decision Tree (J48), Naïve Bayes (NB), Random Forest (RF), and Multilayer Perceptron (MLP) to classify the students, along with a few filter-based feature selection methods like Info gain, gain ratio, and correlation features have been applied to select the key attributes. Finally, we have fine-tuned the learning parameters of MLP called "Opt-MLP" to get an optimized output and compared it with other classification models. Our experimental results conclude that Opt-MLP proves its superiority over other classification models by predicting an accuracy of 87.14% without the feature selection (WOFS) and 90.74% accuracy with the feature selection (WFS) method for data set 1 and an accuracy of 79.37% without feature selection and 97.08% with feature selection for dataset 2. But, when the students' behavioral feature is considered along with other features, the RF model provides 100% accuracy justifying that students' behavior during class hours has a great impact on attaining the students' outcomes.
+ISSN - ISSN-1360-2357
+ISSN - EISSN-1573-7608
+LA  - English
+PT  - Journal Articles
+PT  - Reports - Research
+
+OWN - ERIC
+TI  - Increasing Student Engagement with Course Content in Graduate Public Health Education: A Pilot Randomized Trial of Behavioral Nudges
+AU  - Garbers, Samantha
+AU  - Crinklaw, Allyson D.
+AU  - Brown, Adam S.
+AU  - Russell, Roxanne
+OT  - Learner Engagement
+OT  - Course Content
+OT  - Graduate Students
+OT  - Public Health
+OT  - Health Education
+OT  - Student Behavior
+OT  - Behavior Modification
+OT  - Learning Management Systems
+JT  - Education and Information Technologies
+SO  - v28 n10 p13405-13421 Oct 2023
+AID - http://dx.doi.org/10.1007/s10639-023-11709-5
+OID - EJ1394596
+VI  - 28
+IP  - 10
+PG  - 13405-13421
+DP  - Oct 2023
+LID - http://eric.ed.gov/?id=EJ1394596
+AB  - Digital advances in the learning space have changed the contours of student engagement as well as how it is measured. Learning management systems and other learning technologies now provide information about student behaviors with course materials in the form of learning analytics. In the context of a large, integrated and interdisciplinary Core curriculum course in a graduate school of public health, this study undertook a pilot randomized controlled trial testing the effect of providing a "behavioral nudge" in the form of digital images containing specific information derived from learning analytics about past student behaviors and performance. The study found that student engagement varied significantly from week to week, but nudges linking coursework completion to assessment grade performance did not significantly change student engagement. While the a priori hypotheses of this pilot trial were not upheld, this study yielded significant findings that can guide future efforts to increase student engagement. Future work should include a robust qualitative assessment of student motivations, testing of nudges that tap into these motivations and a richer examination of student learning behaviors over time using stochastic analyses of data from the learning management system.
+ISSN - ISSN-1360-2357
+ISSN - EISSN-1573-7608
+LA  - English
+PT  - Journal Articles
+PT  - Reports - Research
+
+OWN - ERIC
+TI  - i-Ntervene: Applying an Evidence-Based Learning Analytics Intervention to Support Computer Programming Instruction
+AU  - Utamachant, Piriya
+AU  - Anutariya, Chutiporn
+AU  - Pongnumkul, Suporn
+OT  - Intervention
+OT  - Learning Analytics
+OT  - Learning Management Systems
+OT  - Programming
+OT  - Learner Engagement
+OT  - Comprehension
+OT  - At Risk Students
+OT  - Evidence Based Practice
+OT  - College Freshmen
+OT  - Educational Technology
+OT  - Electronic Learning
+OT  - Student Motivation
+JT  - Smart Learning Environments
+SO  - v10 Article 37 2023
+AID - http://dx.doi.org/10.1186/s40561-023-00257-7
+OID - EJ1385865
+VI  - 10
+DP  - Article 37 2023
+LID - http://eric.ed.gov/?id=EJ1385865
+AB  - Apart from good instructional design and delivery, effective intervention is another key to strengthen student academic performance. However, intervention has been recognized as a great challenge. Most instructors struggle to identify at-risk students, determine a proper intervention approach, trace and evaluate whether the intervention works. This process requires extensive effort and commitment, which is impractical especially for large classes with few instructors. This paper proposes a platform, namely "i-Ntervene," that integrates Learning Management System (LMS) automatic code grader, and learning analytics features which can empower systematic learning intervention for large programming classes. The platform supports instructor-pace courses on both Virtual Learning Environment (VLE) and traditional classroom setting. The platform iteratively assesses student engagement levels through learning activity gaps. It also analyzes subject understanding from programming question practices to identify at-risk students and suggests aspects of intervention based on their lagging in these areas. Students' post-intervention data are traced and evaluated quantitatively to determine effective intervention approaches. This evaluation method aligns with the evidence-based research design. The developed i-Ntervene prototype was tested on a Java programming course with 253 first-year university students during the COVID-19 pandemic in VLE. The result was satisfactory, as the instructors were able to perform and evaluate 12 interventions throughout a semester. For this experimental course, the platform revealed that the approach of sending extrinsic motivation emails had more impact in promoting learning behavior compared to other types of messages. It also showed that providing tutorial sessions was not an effective approach to improving students' subject understanding in complex algorithmic topics. i-Ntervene allows instructors to flexibly trial potential interventions to discover the optimal approach for their course settings which should boost student's learning outcomes in long term.
+ISSN - EISSN-2196-7091
+LA  - English
+PT  - Journal Articles
+PT  - Reports - Research
+
+OWN - ERIC
+TI  - Students' Performance Prediction in Higher Education Using Multi-Agent Framework-Based Distributed Data Mining Approach: A Review
+AU  - M. Nazir
+AU  - A. Noraziah
+AU  - M. Rahmah
+OT  - Data Analysis
+OT  - Academic Achievement
+OT  - Artificial Intelligence
+OT  - Prediction
+OT  - Undergraduate Students
+OT  - Educational Research
+OT  - Higher Education
+JT  - International Journal of Virtual and Personal Learning Environments
+SO  - v13 n1 2023
+AID - http://doi.org/10.4018/IJVPLE.328772
+OID - EJ1403552
+VI  - 13
+IP  - 1
+DP  - 2023
+LID - http://eric.ed.gov/?id=EJ1403552
+AB  - An effective educational program warrants the inclusion of an innovative construction that enhances the higher education efficacy in such a way that accelerates the achievement of desired results and reduces the risk of failures. Educational decision support system has currently been a hot topic in educational systems, facilitating the pupil result monitoring and evaluation to be performed during their development. In this literature survey, the authors have discussed the importance of multi-agent systems and comparative machine learning approaches in EDSS development. They explored the relationship between machine learning and multiagent intelligent systems in literature to conclude their effectiveness in student performance prediction paradigm. They used the PRISMA model for the literature review process. They finalized 18 articles published between 2014-2022 for the survey that match the research objectives.
+ISSN - ISSN-1947-8518
+ISSN - EISSN-1947-8526
+LA  - English
+PT  - Journal Articles
+PT  - Reports - Evaluative
+PT  - Information Analyses
+
+OWN - ERIC
+TI  - Machine Learning and Statistical Analysis to Enhance Learning Outcomes in Online Learning Environments
+AU  - Nazempour, Rezvan
+OT  - Artificial Intelligence
+OT  - Outcomes of Education
+OT  - Electronic Learning
+OT  - Educational Environment
+OT  - Learning Analytics
+OT  - Information Retrieval
+OT  - Data Analysis
+OT  - Academic Achievement
+OT  - Cognitive Style
+OT  - College Students
+OT  - At Risk Students
+OT  - Prediction
+JT  - ProQuest LLC
+SO  - Ph.D. Dissertation, University of Illinois at Chicago
+AID - http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&res_dat=xri:pqm&rft_dat=xri:pqdiss:30603429
+OID - ED636084
+DP  - 2023
+LID - http://eric.ed.gov/?id=ED636084
+AB  - Educational Data Mining (EDM) is an emerging field that aims to better understand students' behavior patterns and learning environments by employing statistical and machine learning methods to analyze large repositories of educational data. Analysis of variable data in the early stages of a course might be used to develop a comprehensive prediction model to prevent students' failure or dropout. This will assist instructors in intervening effectively. In this defense report, three major contributions in the field of educational data mining and learning analytics are presented. The first contribution is a framework to statistically compare different instructional modes and investigate their effects on students' academic performance. Our analysis is unique in the literature and is based on the "Rank Percentage" rather than students' course grades. The rank percentage allows us to make the academic scores more comparable. Previous studies have mainly focused on students' course grades to evaluate academic performance. A sample data set of around 500 students attending a Financial Engineering Course (IE201) is used to test the proposed approach. A total of four cohorts of students are considered, depending on the teaching modalities they attended: the traditional face-to-face (F2F) classroom, the transitional semester interrupted by the COVID-19 pandemic, and the two consecutive online semesters (asynchronous and synchronous). We aim to investigate the effect of the transition from F2F classes to online modes on different subgroups of students. Accordingly, we divide each student cohort into subgroups using criteria such as cumulative grade point average (GPA). We then utilize the Mann-Whitney U test for pair-wise comparisons between cohorts in each cumulative GPA subgroup. Our findings highlight that the differences between specific subgroups of students are significant. As a result of the transition to online learning, students with cumulative GPAs greater than 2.90 have been negatively affected. It is, however, hard to draw a firm conclusion for students with cumulative GPAs below 2.90. Our results encourage researchers to investigate the effectiveness of various teaching modes on subgroups of students when comparing populations with different instruction modes. The second contribution of this dissertation is a framework by which students' learning style features can be utilized to enhance their academic performance and detect at-risk students early in the course. A publicly available dataset called Open University Learning Analytics Dataset (OULAD) is used to test the proposed approach. We employ the Felder-Silverman Learning Style Model (FSLSM) as the basis for mapping learners' interaction with the Virtual Learning Environment (VLE) to learning style (LS) features. LSs extracted from the course's first and second quarters and the learners' demographic features are used to train different prediction models to classify the second quarter assessment results into satisfactory and not satisfactory classes. A grid search is then implemented to determine the optimal values of LS features in the second quarter that maximize students' academic performance. Comparisons between the actual and optimal values of LS features in the second quarter are made based on defined thresholds and divided the learners into "Supported" and "Not Supported." Finally, the Mann-Whitney U test is used to compare the second quarter assessment grade between Supported and Not Supported groups. The findings depict that the statistical differences are significant, i.e., students in the Supported group achieved better grades in the second quarter assessment compared to the Not Supported group. Adopting an individual's learning style to the appropriate educational intervention can significantly impact student performance. The final contribution is to propose an approach to personalizing learning resources based on students' learning styles in an online learning environment. A student's learning style affects their learning attitude, satisfaction level, and academic performance. So, to maintain learners' interest and enhance their academic performance, it is crucial to consider their learning styles when developing e-learning systems. Students' interactions with the online learning environment are captured in a large amount of data during the learning process. The collected data can be used to analyze learners' behavior to determine their learning styles. In the proposed approach, the learning style and demographic features are then utilized for training machine learning models to predict students' academic performance in each quarter of different courses. The most accurate prediction model for each quarter is then used to find learning style features that maximize students' pass rates. We statistically prove that students whose actual learning style features were close enough to the ones calculated by the approach achieved better grades. To improve students' academic performance each quarter, we suggest two strategies based on the learning style features calculated by the process. [The dissertation citations contained here are published with the permission of ProQuest LLC. Further reproduction is prohibited without permission. Copies of dissertations may be obtained by Telephone (800) 1-800-521-0600. Web page: http://www.proquest.com/en-US/products/dissertations/individuals.shtml.]
+ISBN - 979-8-3797-4558-5
+PT  - Dissertations/Theses - Doctoral Dissertations
+
+OWN - ERIC
+TI  - Effectiveness of a Learning Analytics Dashboard for Increasing Student Engagement Levels
+AU  - Gomathy Ramaswami
+AU  - Teo Susnjak
+AU  - Anuradha Mathrani
+OT  - Learner Engagement
+OT  - Learning Analytics
+OT  - Electronic Learning
+OT  - Student Behavior
+OT  - Educational Technology
+OT  - Program Effectiveness
+OT  - Postsecondary Education
+OT  - Learning Management Systems
+OT  - Academic Achievement
+OT  - Student Attitudes
+OT  - Foreign Countries
+JT  - Journal of Learning Analytics
+SO  - v10 n3 p115-134 2023
+OID - EJ1411453
+VI  - 10
+IP  - 3
+PG  - 115-134
+DP  - 2023
+LID - http://eric.ed.gov/?id=EJ1411453
+AB  - Learning Analytics Dashboards (LADs) are gaining popularity as a platform for providing students with insights into their learning behaviour patterns in online environments. Existing LAD studies are mainly centred on displaying students' online behaviours with simplistic descriptive insights. Only a few studies have integrated predictive components, while none possess the ability to explain how the predictive models work and how they have arrived at specific conclusions for a given student. A further gap exists within existing LADs with respect to prescriptive analytics that generate data-driven feedback to students on how to adjust their learning behaviour. The LAD in this study attempts to address this gap and integrates a full spectrum of current analytics technologies for sense-making while anchoring them within theoretical educational frameworks. This study's LAD (SensEnablr) was evaluated for its effectiveness in impacting learning in a student cohort at a tertiary institution. Our findings demonstrate that student engagement with learning technologies and course resources increased significantly immediately following interactions with the dashboard. Meanwhile, results showed that the dashboard boosted the respondents' learning motivation levels and that the novel analytics insights drawn from predictive and prescriptive analytics were beneficial to their learning. This study, therefore, has implications for future research when investigating student outcomes and optimizing student learning using LAD technologies.
+ISSN - EISSN-1929-7750
+LA  - English
+PT  - Journal Articles
+PT  - Reports - Research
+
+OWN - ERIC
+TI  - Using LMS Log Data to Explore Student Engagement with Coursework Videos
+AU  - Maloney, Suzanne
+AU  - Axelsen, Megan
+AU  - Galligan, Linda
+AU  - Turner, Joanna
+AU  - Redmond, Petrea
+AU  - Brown, Alice
+AU  - Basson, Marita
+AU  - Lawrence, Jill
+OT  - Learning Analytics
+OT  - Video Technology
+OT  - Learning Management Systems
+OT  - Comparative Analysis
+OT  - Student Behavior
+OT  - Learner Engagement
+OT  - Measurement Techniques
+OT  - Time Management
+OT  - Data Interpretation
+OT  - Undergraduate Students
+OT  - College Faculty
+OT  - Learning Processes
+OT  - Learning Activities
+JT  - Online Learning
+SO  - v26 n4 p399-423 Dec 2022
+OID - EJ1374696
+VI  - 26
+IP  - 4
+PG  - 399-423
+DP  - Dec 2022
+LID - http://eric.ed.gov/?id=EJ1374696
+AB  - Driven by the increased availability of Learning Management System data, this study explored its value and sought understanding of student behaviour through the information contained in activity level log data. Specifically, this study examined analytics data to understand students' engagement with online videos. Learning analytics data from the Moodle[superscript TM] and Vimeo® platforms were compared. The research also examined the impact of video length on engagement, and how engagement with videos changed over the course of a semester when multiple video resources were used in a course. The comparison in platform learning analytics showed differences in metrics thus offering a caution to users relying on unidimensional metrics. While the results support the notion that log data do provide educators with an opportunity for review, the time and expertise in extracting, handling, and using the data may stifle its widespread adoption.
+ISSN - ISSN-2472-5749
+ISSN - EISSN-2472-5730
+LA  - English
+PT  - Journal Articles
+PT  - Reports - Research
+
+OWN - ERIC
+TI  - Learning Analytics Intervention Improves Students' Engagement in Online Learning
+AU  - Karaoglan Yilmaz, Fatma Gizem
+AU  - Yilmaz, Ramazan
+OT  - Learning Analytics
+OT  - Intervention
+OT  - Learner Engagement
+OT  - Electronic Learning
+OT  - Student Behavior
+OT  - Cognitive Processes
+OT  - Psychological Patterns
+OT  - Metacognition
+OT  - Feedback (Response)
+OT  - Grade 1
+OT  - Foreign Countries
+OT  - Elementary School Science
+OT  - Individualized Instruction
+JT  - Technology, Knowledge and Learning
+SO  - v27 n2 p449-460 Jun 2022
+AID - http://dx.doi.org/10.1007/s10758-021-09547-w
+OID - EJ1337032
+VI  - 27
+IP  - 2
+PG  - 449-460
+DP  - Jun 2022
+LID - http://eric.ed.gov/?id=EJ1337032
+AB  - One of the main problems encountered in the online learning process is the low or absence of students' engagement. They may face problems with behavioral engagement, cognitive engagement, emotional engagement in online learning environments. It is thought that the problems related to students' engagements can be overcome with personalized metacognitive feedback support based on learning analytics. In this research, the effect of personalized metacognitive feedback support based on learning analytics in online learning for recommendation and guidance was investigated on student engagement. The research was designed in conformity with experimental design, and it was performed on 68 first graders at a university in Turkey. The procedure was conducted within the scope of the Computing II Course based on online learning. The participants were randomly apportioned to experimental and control groups. Students in the experimental group were provided with personalized metacognitive feedback support based on learning analytics for recommendation and guidance. This support was not given to the control group. The personalized metacognitive feedback support used in this research consists of two basic components. These: (a) Learning analytics reports created with data obtained from students' weekly learning management system usage; and (b) The second component of the feedback messages is the recommendations messages prepared personalized for each participant based on learning analytics reports. The data of the study was obtained by the students' engagement scale which is used as pretest and posttest. The findings of the study revealed that the experimental group students' engagement was higher than the control group. Based on the research findings, it was seen that providing personalized metacognitive feedback based on learning analytics to students in online learning would improve students' engagement. Therefore, it can be said that providing personalized metacognitive feedback based on learning analytics in online learning is a useful approach. This research has a novel and unique value in examining the effect of personalized metacognitive feedback based on learning analytics on students' engagement. In line with the findings obtained from the research, various suggestions were made for educators, administrators, and researchers.
+ISSN - ISSN-2211-1662
+LA  - English
+PT  - Journal Articles
+PT  - Reports - Research
+
+OWN - ERIC
+TI  - The Use of Video Clickstream Data to Predict University Students' Test Performance: A Comprehensive Educational Data Mining Approach
+AU  - Yürüm, Ozan Rasit
+AU  - Taskaya-Temizel, Tugba
+AU  - Yildirim, Soner
+OT  - Video Technology
+OT  - Educational Technology
+OT  - Learning Management Systems
+OT  - Data Collection
+OT  - Data Use
+OT  - Prediction
+OT  - College Students
+OT  - Testing
+OT  - Learning Analytics
+OT  - Performance
+OT  - Online Courses
+OT  - Audience Response Systems
+OT  - At Risk Students
+OT  - Identification
+JT  - Education and Information Technologies
+SO  - v28 n5 p5209-5240 May 2023
+AID - http://dx.doi.org/10.1007/s10639-022-11403-y
+OID - EJ1377505
+VI  - 28
+IP  - 5
+PG  - 5209-5240
+DP  - May 2023
+LID - http://eric.ed.gov/?id=EJ1377505
+AB  - Video clickstream behaviors such as pause, forward, and backward offer great potential for educational data mining and learning analytics since students exhibit a significant amount of these behaviors in online courses. The purpose of this study is to investigate the predictive relationship between video clickstream behaviors and students' test performance with two consecutive experiments. The first experiment was performed as an exploratory study with 22 university students using a single test performance measure and basic statistical techniques. The second experiment was performed as a conclusive study with 16 students using repeated measures and comprehensive data mining techniques. The findings show that a positive correlation exists between the total number of clicks and students' test performance. Those students who performed a high number of clicks, slow backward speed or doing backwards or pauses achieved better test performance than those who performed a lower number of clicks, or who used fast-backward or fast-forward. In addition, students' test performance could be predicted using video clickstream data with a good level of accuracy (Root Mean Squared Error Percentage (%RMSE) ranged between 15 and 20). Furthermore, the mean of backward speed, number of pauses, and number/percentage of backwards were found to be the most important indicators in predicting students' test performance. These findings may help educators or researchers identify students who are at risk of failure. Finally, the study provides design suggestions based on the findings for the preparation of video-based lectures.
+ISSN - ISSN-1360-2357
+ISSN - EISSN-1573-7608
+LA  - English
+PT  - Journal Articles
+PT  - Reports - Research
+
+OWN - ERIC
+TI  - Improving the Portability of Predicting Students' Performance Models by Using Ontologies
+AU  - López-Zambrano, Javier
+AU  - Lara, Juan A.
+AU  - Romero, Cristóbal
+OT  - Learning Analytics
+OT  - Prediction
+OT  - Models
+OT  - Semantics
+OT  - Taxonomy
+OT  - Integrated Learning Systems
+OT  - Accuracy
+OT  - Technology Transfer
+JT  - Journal of Computing in Higher Education
+SO  - v34 n1 p1-19 Apr 2022
+AID - http://dx.doi.org/10.1007/s12528-021-09273-3
+OID - EJ1330840
+VI  - 34
+IP  - 1
+PG  - 1-19
+DP  - Apr 2022
+LID - http://eric.ed.gov/?id=EJ1330840
+AB  - One of the main current challenges in Educational Data Mining and Learning Analytics is the portability or transferability of predictive models obtained for a particular course so that they can be applied to other different courses. To handle this challenge, one of the foremost problems is the models' excessive dependence on the low-level attributes used to train them, which reduces the models' portability. To solve this issue, the use of high-level attributes with more semantic meaning, such as ontologies, may be very useful. Along this line, we propose the utilization of an ontology that uses a taxonomy of actions that summarises students' interactions with the Moodle learning management system. We compare the results of this proposed approach against our previous results when we used low-level raw attributes obtained directly from Moodle logs. The results indicate that the use of the proposed ontology improves the portability of the models in terms of predictive accuracy. The main contribution of this paper is to show that the ontological models obtained in one source course can be applied to other different target courses with similar usage levels without losing prediction accuracy.
+ISSN - ISSN-1042-1726
+LA  - English
+PT  - Journal Articles
+PT  - Reports - Research
+
+OWN - ERIC
+TI  - Student Engagement Level in an e-Learning Environment: Clustering Using K-Means
+AU  - Moubayed, Abdallah
+AU  - Injadat, Mohammadnoor
+AU  - Shami, Abdallah
+AU  - Lutfiyya, Hanan
+OT  - Learner Engagement
+OT  - Electronic Learning
+OT  - Individualized Instruction
+OT  - Undergraduate Students
+OT  - Learning Analytics
+OT  - Identification
+OT  - Interaction
+OT  - College Science
+OT  - Foreign Countries
+OT  - Models
+OT  - Program Effectiveness
+OT  - Student Behavior
+JT  - American Journal of Distance Education
+SO  - v34 n2 p137-156 2020
+AID - http://dx.doi.org/10.1080/08923647.2020.1696140
+OID - EJ1258775
+VI  - 34
+IP  - 2
+PG  - 137-156
+DP  - 2020
+LID - http://eric.ed.gov/?id=EJ1258775
+AB  - E-learning platforms and processes face several challenges, among which is the idea of personalizing the e-learning experience and to keep students motivated and engaged. This work is part of a larger study that aims to tackle these two challenges using a variety of machine learning techniques. To that end, this paper proposes the use of k-means algorithm to cluster students based on 12 engagement metrics divided into two categories: interaction-related and effort-related. Quantitative analysis is performed to identify the students that are not engaged who may need help. Three different clustering models are considered: two-level, three-level, and five-level. The considered dataset is the students' event log of a second-year undergraduate Science course from a North American university that was given in a blended format. The event log is transformed using MATLAB to generate a new dataset representing the considered metrics. Experimental results' analysis shows that among the considered interaction-related and effort-related metrics, the number of logins and the average duration to submit assignments are the most representative of the students' engagement level. Furthermore, using the silhouette coefficient as a performance metric, it is shown that the two-level model offers the best performance in terms of cluster separation. However, the three-level model has a similar performance while better identifying students with low engagement levels.
+ISSN - ISSN-0892-3647
+LA  - English
+PT  - Journal Articles
+PT  - Reports - Research
+
+OWN - ERIC
+TI  - The Potential for Student Performance Prediction in Small Cohorts with Minimal Available Attributes
+AU  - Wakelam, Edward
+AU  - Jefferies, Amanda
+AU  - Davey, Neil
+AU  - Sun, Yi
+OT  - Academic Achievement
+OT  - At Risk Students
+OT  - Data Analysis
+OT  - Identification
+OT  - Academic Failure
+OT  - Dropouts
+OT  - Computer Assisted Instruction
+OT  - Student Characteristics
+OT  - Computer Simulation
+OT  - Grades (Scholastic)
+OT  - Prediction
+OT  - Attendance
+OT  - College Seniors
+OT  - Lecture Method
+JT  - British Journal of Educational Technology
+SO  - v51 n2 p347-370 Mar 2020
+AID - http://dx.doi.org/10.1111/bjet.12836
+OID - EJ1243672
+VI  - 51
+IP  - 2
+PG  - 347-370
+DP  - Mar 2020
+LID - http://eric.ed.gov/?id=EJ1243672
+AB  - The measurement of student performance during their progress through university study provides academic leadership with critical information on each student's likelihood of success. Academics have traditionally used their interactions with individual students through class activities and interim assessments to identify those "at risk" of failure/withdrawal. However, modern university environments, offering easy on-line availability of course material, may see reduced lecture/tutorial attendance, making such identification more challenging. Modern data mining and machine learning techniques provide increasingly accurate predictions of student examination assessment marks, although these approaches have focussed upon large student populations and wide ranges of data attributes per student. However, many university modules comprise relatively small student cohorts, with institutional protocols limiting the student attributes available for analysis. It appears that very little research attention has been devoted to this area of analysis and prediction. We describe an experiment conducted on a final-year university module student cohort of 23, where individual student data are limited to lecture/tutorial attendance, virtual learning environment accesses and intermediate assessments. We found potential for predicting individual student interim and final assessment marks in small student cohorts with very limited attributes and that these predictions could be useful to support module leaders in identifying students potentially "at risk."
+ISSN - ISSN-0007-1013
+LA  - English
+PT  - Journal Articles
+PT  - Reports - Research
+
+OWN - ERIC
+TI  - Enhancing Student Success Prediction with FeatureX: A Fusion Voting Classifier Algorithm with Hybrid Feature Selection
+AU  - Saleem Malik
+AU  - K. Jothimani
+OT  - Algorithms
+OT  - Decision Making
+OT  - At Risk Students
+OT  - Learning Management Systems
+OT  - Artificial Intelligence
+OT  - Academic Achievement
+OT  - Learning Analytics
+OT  - Dropout Rate
+OT  - Prediction
+OT  - Accuracy
+OT  - Identification
+OT  - Outcomes of Education
+OT  - Equal Education
+OT  - Educational Quality
+JT  - Education and Information Technologies
+SO  - v29 n7 p8741-8791 2024
+AID - http://dx.doi.org/10.1007/s10639-023-12139-z
+OID - EJ1424292
+VI  - 29
+IP  - 7
+PG  - 8741-8791
+DP  - 2024
+LID - http://eric.ed.gov/?id=EJ1424292
+AB  - Monitoring students' academic progress is vital for ensuring timely completion of their studies and supporting at-risk students. Educational Data Mining (EDM) utilizes machine learning and feature selection to gain insights into student performance. However, many feature selection algorithms lack performance forecasting systems, limiting their ability to predict future academic success accurately. To address this, we propose FeatureX, a hybrid approach aiming to select high-performing features that impact student quality and reduce dropout rates. FeatureX integrates filter-based and wrapper-based methods to identify relevant features for predicting student performance. This approach enhances educational experiences by optimizing resource allocation and support services. Additionally, the Confidence-Weighted Fusion Voting Classifier (CWFVC) Algorithm supplements feature selection with performance forecasting capabilities, improving accuracy by combining diverse machine learning classifiers. The research evaluates FeatureX using Decision Trees, Random Forests, Support Vector Machines, and Neural Networks. Performance metrics, including accuracy, precision, recall, and F1-score, measure FeatureX's effectiveness. Results show that FeatureX achieves the highest accuracy with a subset of ten features, effectively identifying influential predictors. The CWFVC Algorithm further enhances performance forecasting accuracy, enabling timely identification of at-risk students and reducing dropout rates to foster inclusive education. Our research addresses the demand for data-driven approaches in education, offering an innovative method for predicting student performance and enhancing educational outcomes for diverse students. FeatureX and the CWFVC Algorithm provide valuable tools for educators and administrators to optimize resources, tailor support services, and create a more inclusive learning environment. Leveraging EDM and performance forecasting, educational institutions can proactively support students and promote academic success, contributing to an equitable and effective educational system.
+ISSN - ISSN-1360-2357
+ISSN - EISSN-1573-7608
+LA  - English
+PT  - Journal Articles
+PT  - Reports - Evaluative
+
+OWN - ERIC
+TI  - Using Learner Analytics to Explore the Potential Contribution of Multimodal Formative Assessment to Academic Success in Higher Education
+AU  - Kohnke, Lucas
+AU  - Foung, Dennis
+AU  - Chen, Julia
+OT  - Formative Evaluation
+OT  - Higher Education
+OT  - Outcomes of Education
+OT  - Learning Analytics
+OT  - Prediction
+OT  - At Risk Students
+OT  - Identification
+OT  - English for Academic Purposes
+OT  - Second Language Learning
+OT  - Second Language Instruction
+OT  - Foreign Countries
+OT  - Blended Learning
+OT  - Teaching Methods
+OT  - Integrated Learning Systems
+OT  - Learner Engagement
+OT  - Undergraduate Students
+OT  - Multimedia Materials
+OT  - Evaluation Methods
+OT  - Language Tests
+OT  - Academic Achievement
+JT  - SAGE Open
+SO  - v12 n2 Apr-Jun 2022
+AID - http://dx.doi.org/10.1177/21582440221089957
+OID - EJ1351197
+VI  - 12
+IP  - 2
+DP  - Apr-Jun 2022
+LID - http://eric.ed.gov/?id=EJ1351197
+AB  - Blended learning pedagogical practices supported by learning management systems have become an important part of higher education curricula. In most cases, these blended curricula are evaluated through multimodal formative assessments. Although assessments can strongly affect student outcomes, research on the topic is limited. In this paper, we adopted a learning analytics approach to explore student engagement with formative assessments and the power of these assessments to predict student outcomes in an English for Academic Purposes courses in a Hong Kong university. The study retrieved the data logs from 7,815 students and used the data to analyze student engagement with the formative assessments. The results suggested that the students put effort into completing the assessments. The degree to which assessments predict learning outcomes depend on students' level of subject knowledge and their understanding of the relevance of the assessments. This study showed that learning analytics provided reliable evidence for understanding students' engagement and identifying at-risk students. Therefore, learning analytics research has the potential to inform pedagogical practice.
+ISSN - EISSN-2158-2440
+LA  - English
+PT  - Journal Articles
+PT  - Reports - Research
+
+OWN - ERIC
+TI  - Using Learning Management System Activity Data to Predict Student Performance in Face-to-Face Courses
+AU  - Mozahem, Najib Ali
+OT  - Integrated Learning Systems
+OT  - Data Use
+OT  - Prediction
+OT  - Academic Achievement
+OT  - Synchronous Communication
+OT  - Learning Analytics
+OT  - Private Colleges
+OT  - Gender Differences
+OT  - Grades (Scholastic)
+OT  - Student Characteristics
+OT  - Performance Factors
+OT  - Progress Monitoring
+OT  - Foreign Countries
+OT  - Student Behavior
+OT  - College Students
+JT  - International Journal of Mobile and Blended Learning
+SO  - v12 n3 Article 2 p20-31 2020
+AID - http://doi.org/10.4018/IJMBL.2020070102
+OID - EJ1258168
+VI  - 12
+IP  - 3
+PG  - 20-31
+DP  - Article 2020
+LID - http://eric.ed.gov/?id=EJ1258168
+AB  - Higher education institutes are increasingly turning their attention to web-based learning management systems. The purpose of this study is to investigate whether data collected from LMS can be used to predict student performance in classrooms that use LMS to supplement face-to-face teaching. Data was collected from eight courses spread across two semesters at a private university in Lebanon. Event history analysis was used to investigate whether the probability of logging in was related to the gender and grade of the students. Results indicate that students with higher grades login more frequently to the LMS, that females login more frequently than males, and that student login activity increases as the semester progresses. As a result, this study shows that login activity can be used to predict the academic performance of students. These findings suggest that educators in traditional face-to-face classes can benefit from educational data mining techniques that are applied to the data collected by learning management systems in order to monitor student performance.
+ISSN - ISSN-1941-8647
+LA  - English
+PT  - Journal Articles
+PT  - Reports - Research
+
+OWN - ERIC
+TI  - Technology Enhanced Learning Analytics Dashboard in Higher Education
+AU  - Jayashanka, Rangana
+AU  - Hettiarachchi, E.
+AU  - Hewagamage, K. P.
+OT  - Foreign Countries
+OT  - Technology Uses in Education
+OT  - Learning Analytics
+OT  - Electronic Learning
+OT  - Higher Education
+OT  - Educational Technology
+OT  - Integrated Learning Systems
+OT  - Progress Monitoring
+OT  - Blended Learning
+OT  - Student Motivation
+OT  - Learner Engagement
+OT  - Grades (Scholastic)
+OT  - Undergraduate Students
+OT  - Self Esteem
+OT  - Student Improvement
+OT  - Visualization
+OT  - Graphs
+JT  - Electronic Journal of e-Learning
+SO  - v20 n2 p151-170 2022
+OID - EJ1333749
+VI  - 20
+IP  - 2
+PG  - 151-170
+DP  - 2022
+LID - http://eric.ed.gov/?id=EJ1333749
+AB  - During the COVID-19 pandemic period, all the Sri Lankan universities delivered lectures in fully online mode using Virtual Learning Environments. In fully online mode, students cannot track their performance level, their progress in the course, and their performances compared to the rest of the class. This paper presents research work conducted at the University of Colombo School of Computing (UCSC), Sri Lanka, to solve the above problems and facilitate students learning in fully online and blended learning environments using Learning Analytics. The research objective is to design and create a Technology Enhanced Learning Analytics (TELA) dashboard for improving students' motivation, engagement, and grades. The Design Science research strategy was followed to achieve the objectives of the research. Initially, a literature survey was conducted analyzing features and limitations in current Learning Analytic dashboards. Then, current Learning Analytic plugins for Moodle were studied to identify their drawbacks. Two surveys with 136 undergraduate students and interviews with 12 lecturers were conducted to determine required features of the TELA system. The system was designed as a Moodle Plugin. Finally, an evaluation of the system was done with third-year undergraduate students of the UCSC. The results showed that the TELA dashboard can improve students' motivation, engagement, and grades. As a result of the system, students could track their current progress and performance compared to the peers, which helps to improve their motivation to engage more in the course. Also, the increased engagement in the course enhances the student's self-confidence since the student can see continuous improvement of his/her progress and performance which in turn improves the student's grades.
+ISSN - EISSN-1479-4403
+LA  - English
+PT  - Journal Articles
+PT  - Reports - Research
+
+OWN - ERIC
+TI  - Revealing Impact Factors on Student Engagement: Learning Analytics Adoption in Online and Blended Courses in Higher Education
+AU  - Fan, Si
+AU  - Chen, Lihua
+AU  - Nair, Manoj
+AU  - Garg, Saurabh
+AU  - Yeom, Soonja
+AU  - Kregor, Gerry
+AU  - Yang, Yu
+AU  - Wang, Yanjun
+OT  - Learner Engagement
+OT  - Learning Analytics
+OT  - Integrated Learning Systems
+OT  - Adoption (Ideas)
+OT  - Online Courses
+OT  - Blended Learning
+OT  - Discussion Groups
+OT  - Course Content
+OT  - Behavior Patterns
+OT  - Teacher Participation
+OT  - Foreign Countries
+OT  - College Students
+JT  - Education Sciences
+SO  - v11 Article 608 2021
+OID - EJ1317965
+VI  - 11
+DP  - Article 608 2021
+LID - http://eric.ed.gov/?id=EJ1317965
+AB  - This study aimed to identify factors influencing student engagement in online and blended courses at one Australian regional university. It applied a data science approach to learning and teaching data gathered from the learning management system used at this university. Data were collected and analysed from 23 subjects, spanning over 5500 student enrolments and 406 lecturer and tutor roles, over a five-year period. Based on a theoretical framework adapted from Community of Inquiry (CoI) framework by Garrison et al. (2000), the data were segregated into three groups for analysis: Student Engagement, Course Content and Teacher Input. The data analysis revealed a positive correlation between Student Engagement and Teacher Input, and interestingly, a negative correlation between Student Engagement and Course Content when a certain threshold was exceeded. The findings of the study offer useful suggestions for future course design, and pedagogical approaches teachers can adopt to foster student engagement.
+ISSN - EISSN-2227-7102
+PT  - Journal Articles
+PT  - Reports - Research
+
+OWN - ERIC
+TI  - The Effect of Providing Learning Analytics on Student Behaviour and Performance in Programming: A Randomised Controlled Experiment
+AU  - Hellings, Jan
+AU  - Haelermans, Carla
+OT  - Learning Analytics
+OT  - College Freshmen
+OT  - Student Behavior
+OT  - Electronic Learning
+OT  - Integrated Learning Systems
+OT  - Academic Achievement
+OT  - Grades (Scholastic)
+OT  - Programming
+OT  - Specialization
+OT  - Student Characteristics
+JT  - Higher Education: The International Journal of Higher Education Research
+SO  - v83 n1 p1-18 Jan 2022
+AID - http://dx.doi.org/10.1007/s10734-020-00560-z
+OID - EJ1326147
+VI  - 83
+IP  - 1
+PG  - 1-18
+DP  - Jan 2022
+LID - http://eric.ed.gov/?id=EJ1326147
+AB  - We use a randomised experiment to study the effect of offering half of 556 freshman students a learning analytics dashboard and a weekly email with a link to their dashboard, on student behaviour in the online environment and final exam performance. The dashboard shows their online progress in the learning management systems, their predicted chance of passing, their predicted grade and their online intermediate performance compared with the total cohort. The email with dashboard access, as well as dashboard use, has positive effects on student behaviour in the online environment, but no effects are found on student performance in the final exam of the programming course. However, we do find differential effects by specialisation and student characteristics.
+ISSN - ISSN-0018-1560
+LA  - English
+PT  - Journal Articles
+PT  - Reports - Research
+
+OWN - ERIC
+TI  - Predicting Student Performance by Modeling Participation in Asynchronous Discussions in University Online Introductory Mathematical Courses
+AU  - Lee, Ji-Eun
+AU  - Recker, Mimi
+OT  - Grade Prediction
+OT  - Academic Achievement
+OT  - Asynchronous Communication
+OT  - College Students
+OT  - Introductory Courses
+OT  - Mathematics Education
+OT  - Electronic Learning
+OT  - Learning Management Systems
+OT  - Student Participation
+OT  - Discussion
+JT  - Educational Technology Research and Development
+SO  - v70 n6 p1993-2015 Dec 2022
+AID - http://dx.doi.org/10.1007/s11423-022-10153-5
+OID - EJ1358458
+VI  - 70
+IP  - 6
+PG  - 1993-2015
+DP  - Dec 2022
+LID - http://eric.ed.gov/?id=EJ1358458
+AB  - This study examines how student and instructor participation in online discussions impacts students' course performance. The context for the study is university introductory online mathematics/statistics courses, which typically have much higher failure rates than their face-to-face counterparts. Using text-mining techniques, we analyze online discussion data automatically collected by a Learning Management System across five years from 2869 students in 72 online courses, who collectively contributed 20,884 posts. These semi-automated techniques enable a broader and more scalable view of participation behaviors by investigating: (1) student posting and non-posting behaviors (called online speaking and listening, respectively), (2) the textual content of posts, and (3) instructors' strategies for structuring discussions. Multilevel modeling results show that online listening behaviors significantly predict students' course performance. Further, students' posts that built on other contributions or applied new knowledge have the highest predictive value in terms of course performance. Finally, the instructors' use of open-ended prompts is the only variable positively and significantly links to students' course performance. Links to theory, instructional practice, and educational data mining are discussed.
+ISSN - ISSN-1042-1629
+ISSN - EISSN-1556-6501
+LA  - English
+PT  - Journal Articles
+PT  - Reports - Research
+
+OWN - ERIC
+TI  - Embedding Navigation Patterns for Student Performance Prediction
+AU  - Loginova, Ekaterina
+AU  - Benoit, Dries F.
+OT  - Navigation (Information Systems)
+OT  - Academic Achievement
+OT  - Grade Prediction
+OT  - Integrated Learning Systems
+OT  - Online Courses
+OT  - Learning Strategies
+OT  - Secondary School Students
+OT  - Data Analysis
+JT  - International Educational Data Mining Society
+SO  - Paper presented at the International Conference on Educational Data Mining (EDM) (14th, Online, Jun 29-Jul 2, 2021)
+OID - ED615535
+DP  - 2021
+LID - http://eric.ed.gov/?id=ED615535
+AB  - Predicting academic performance using trace data from learning management systems is a primary research topic in educational data mining. An important application is the identification of students at risk of failing the course or dropping out. However, most approaches utilise past grades, which are not always available and capture little of the student's learning strategy. The end-to-end models we implement predict whether a student will pass a course using only navigational patterns in a multimedia system, with the advantage of not requiring past grades. We experiment on a dataset containing coarse-grained action logs of more than 100,000 students participating in hundreds of short course. We propose two approaches to improve the performance: a novel encoding scheme for trace data, which reflects the course structure while remaining flexible enough to accommodate previously unseen courses, and unsupervised embeddings obtained with an autoencoder. To provide insight into model behaviour, we incorporate an attention mechanism. Clustering the vector representations of student behaviour produced by the proposed methods shows that distinct learning strategies specific to low- and high-achievers are extracted. [For the full proceedings, see ED615472.]
+PT  - Speeches/Meeting Papers
+PT  - Reports - Research
+
+OWN - ERIC
+TI  - Using Self-Regulated Learning Theory and Learning Analytics to Identify Explanatory Variables Affecting Learning Outcomes in Online/Hybrid Undergraduate Calculus
+AU  - Amy Goodman
+AU  - Youngjin Lee
+AU  - Willard Elieson
+AU  - Gerald Knezek
+OT  - Self Management
+OT  - Learning Theories
+OT  - Learning Analytics
+OT  - Undergraduate Students
+OT  - Mathematics Instruction
+OT  - Calculus
+OT  - Electronic Learning
+OT  - Blended Learning
+OT  - Cognitive Processes
+OT  - Metacognition
+OT  - Outcomes of Education
+OT  - Private Colleges
+OT  - College Mathematics
+JT  - Journal of Computers in Mathematics and Science Teaching
+SO  - v42 n2 p125-154 2023
+AID - https://www.learntechlib.org/primary/p/221642/
+OID - EJ1411014
+VI  - 42
+IP  - 2
+PG  - 125-154
+DP  - 2023
+LID - http://eric.ed.gov/?id=EJ1411014
+AB  - Virtual learning environments give students more autonomy over their learning than traditional face-to-face classes and require that students adapt the ways they consume and assimilate new information. One theory of this process is self-regulated learning, which is illustrated in Efklides' Metacognitive and Affective model of Self-Regulated Learning (MASRL). MASRL represents the interplay between cognition, metacognition, and affect, both within a learner and between a learner and a task. This study uses learning analytics to operationalize Efklides' MASRL model in order to investigate the extent to which a combination of cognitive, metacognitive, and affective variables explains students' learning outcomes. This research was conducted at a private American university with 119 undergraduate students enrolled in four sections of an online or hybrid Calculus I course in fall 2020 and spring 2021. Five cognitive variables were defined and measured according to the Cognitive Operational framework for Analytics (COPA). Three metacognitive variables measured students' engagement with the course, and three affective variables measured students' affective states, as evidenced by digital traces in the LMS. Learning outcomes in this study were measured by students' final course grades. Binary logistic regression revealed that two cognitive, one metacognitive, and two affective variables were significant in explaining whether students' learning outcomes would be above or below the median. The confusion matrix and the area under the Receiver Operating Characteristics (ROC) curve showed high accuracy and usefulness for this regression model. The implications of these findings for online/hybrid learners and Efklides' MASRL model are subsequently explored.
+ISSN - ISSN-0731-9258
+ISSN - EISSN-1943-5908
+LA  - English
+PT  - Journal Articles
+PT  - Reports - Research
+
+OWN - ERIC
+TI  - Investigating Students' Use of Self-Assessments in Higher Education Using Learning Analytics
+AU  - Ifenthaler, Dirk
+AU  - Schumacher, Clara
+AU  - Kuzilek, Jakub
+OT  - Self Evaluation (Individuals)
+OT  - Economics Education
+OT  - Business Administration Education
+OT  - Faculty Workload
+OT  - Formative Evaluation
+OT  - Case Studies
+OT  - Learner Engagement
+OT  - Undergraduate Students
+OT  - Universities
+OT  - Student Attitudes
+OT  - Learning Management Systems
+OT  - Computer Assisted Testing
+OT  - Academic Achievement
+JT  - Journal of Computer Assisted Learning
+SO  - v39 n1 p255-268 Feb 2023
+AID - http://dx.doi.org/10.1111/jcal.12744
+OID - EJ1362004
+VI  - 39
+IP  - 1
+PG  - 255-268
+DP  - Feb 2023
+LID - http://eric.ed.gov/?id=EJ1362004
+AB  - Background: Formative assessments are vital for supporting learning and performance but are also considered to increase the workload of teachers. As self-assessments in higher education are increasingly facilitated via digital learning environments allowing to offer direct feedback and tracking students' digital learning behaviour these constraints might be reduced. Yet, learning analytics do not make sufficient use of data on assessments. Aims: This exploratory case study uses learning analytics methods for investigating students' engagement with self-assessments and how this relates to performance in the final exam and self-reported self-testing strategies. Materials & Methods: The research study has been conducted at a European university in a twelve-weeks course of a Bachelor's program in Economic and Business Education including n[subscript enroll] = 159 participants. During the semester, students were offered nine self-assessments each including three to eight tasks plus one mid-term and one exam-preparation self-assessment including all prior self-assessments tasks. The self-assessment interaction data for each student included: the results of the last self-assessment attempt, the number of processed self-assessment tasks, and the time spent on the last self-assessment attempt, the total self-assessment attempts, and the first as well as last access of each self-assessment. Data analytics included unsupervised machine learning and process mining approaches. Results: Findings indicate that students use the self-assessments predominantly before summative assessments. Two distinct clusters based on engagement with self-assessments could be identified and engagement was positively related to performance in the final exam. The findings from learning analytics data were also indicated by students' self-reported use of self-testing strategies. Discussion: With the help of multiple data from self-reports, formal exams, and a learning analytics system, the findings provided multiple perspectives on the use of self-assessments and their relationships with course performance. These findings call for applying assessment analytics and related frameworks in learning analytics as well as providing learners with related adaptive feedback. Conclusion: Future research might investigate different (self-report) variables for clustering, other student cohorts or self-assessment forms.
+ISSN - ISSN-0266-4909
+ISSN - EISSN-1365-2729
+LA  - English
+PT  - Journal Articles
+PT  - Reports - Research
+
+OWN - ERIC
+TI  - Extracting Topological Features to Identify At-Risk Students Using Machine Learning and Graph Convolutional Network Models
+AU  - Albreiki, Balqis
+AU  - Habuza, Tetiana
+AU  - Zaki, Nazar
+OT  - Identification
+OT  - At Risk Students
+OT  - Artificial Intelligence
+OT  - Academic Achievement
+OT  - Graphs
+OT  - Networks
+OT  - Prediction
+OT  - Matrices
+OT  - Computation
+OT  - Correlation
+JT  - International Journal of Educational Technology in Higher Education
+SO  - v20 Article 23 2023
+AID - http://dx.doi.org/10.1186/s41239-023-00389-3
+OID - EJ1373134
+VI  - 20
+DP  - Article 23 2023
+LID - http://eric.ed.gov/?id=EJ1373134
+AB  - Technological advances have significantly affected education, leading to the creation of online learning platforms such as virtual learning environments and massive open online courses. While these platforms offer a variety of features, none of them incorporates a module that accurately predicts students' academic performance and commitment. Consequently, it is crucial to design machine learning (ML) methods that predict student performance and identify at-risk students as early as possible. Graph representations of student data provide new insights into this area. This paper describes a simple but highly accurate technique for converting tabulated data into graphs. We employ distance measures (Euclidean and cosine) to calculate the similarities between students' data and construct a graph. We extract graph topological features (GF) to enhance our data. This allows us to capture structural correlations among the data and gain deeper insights than isolated data analysis. The initial dataset (DS) and GF can be used alone or jointly to improve the predictive power of the ML method. The proposed method is tested on an educational dataset and returns superior results. The use of DS alone is compared with the use of DS+GF in the classification of students into three classes: "failed", "at risk", and "good". The area under the receiver operating characteristic curve (AUC) reaches 0.948 using DS, compared with 0.964 for DS+GF. The accuracy in the case of DS+GF varies from 84.5 to 87.3%. Adding GF improves the performance by 2.019% in terms of AUC and 3.261% in terms of accuracy. Moreover, by incorporating graph topological features through a graph convolutional network (GCN), the prediction performance can be enhanced by 0.5% in terms of accuracy and 0.9% in terms of AUC under the cosine distance matrix. With the Euclidean distance matrix, adding the GCN improves the prediction accuracy by 3.7% and the AUC by 2.4%. By adding graph embedding features to ML models, at-risk students can be identified with 87.4% accuracy and 0.97 AUC. The proposed solution provides a tool for the early detection of at-risk students. This will benefit universities and enhance their prediction performance, improving both effectiveness and reputation.
+ISSN - EISSN-2365-9440
+LA  - English
+PT  - Journal Articles
+PT  - Reports - Research
+
+OWN - ERIC
+TI  - Investigating the Impact of a Gamified Learning Analytics Dashboard: Student Experiences and Academic Achievement
+AU  - Alam, Md. I.
+AU  - Malone, Lauren
+AU  - Nadolny, Larysa
+AU  - Brown, Michael
+AU  - Cervato, Cinzia
+OT  - Academic Achievement
+OT  - Game Based Learning
+OT  - Introductory Courses
+OT  - STEM Education
+OT  - Geology
+OT  - Comparative Analysis
+OT  - Learning Analytics
+OT  - Learning Management Systems
+OT  - Scientific Literacy
+OT  - Concept Formation
+OT  - Learner Engagement
+OT  - Assignments
+OT  - Science Tests
+OT  - Scientific Concepts
+OT  - Student Attitudes
+OT  - Positive Attitudes
+OT  - Lecture Method
+OT  - Undergraduate Students
+OT  - Student Experience
+JT  - Journal of Computer Assisted Learning
+SO  - v39 n5 p1436-1449 Oct 2023
+AID - http://dx.doi.org/10.1111/jcal.12853
+OID - EJ1391968
+VI  - 39
+IP  - 5
+PG  - 1436-1449
+DP  - Oct 2023
+LID - http://eric.ed.gov/?id=EJ1391968
+AB  - Background: The substantial growth in gamification research has connected gamified learning to enhanced engagement, improved performance, and greater motivation. Similar to gamification, personalized learning analytics dashboards can enhance student engagement. Objectives: This study explores the student experiences and academic achievements using a gamified dashboard in a large, introductory STEM course. Methods: We examined two groups of students enrolled in different sections of a one-semester-long physical geology course with a total enrollment of 223 students. The only difference between the groups was that one had access to the dashboard. The data collection included students' assignments, overall performances, and exam scores. Students in both sections completed a Science Literacy Concept Inventory survey at the beginning and end of the term. Additionally, students completed an end-of-term survey containing open-ended questions on their experience and interactions with specific elements. Results: Students shared mostly positive comments about their experience with the dashboard, and the final grade of students with access to the dashboard was 13% higher, on average, compared to their peers in the non-dashboard section. Conclusion: With low costs and little time invested, gamified dashboards could have a significant impact on student performance in large STEM lecture courses.
+ISSN - ISSN-0266-4909
+ISSN - EISSN-1365-2729
+LA  - English
+PT  - Journal Articles
+PT  - Reports - Research
+
+OWN - ERIC
+TI  - Exploring Key Parameters Influencing Student Performance in a Blended Learning Environment Using Learning Analytics
+AU  - Shabnam Ara S. J.
+AU  - Tanuja R.
+OT  - Academic Achievement
+OT  - Blended Learning
+OT  - Learning Analytics
+OT  - Technology Education
+OT  - Reputation
+OT  - Institutional Characteristics
+OT  - Educational Theories
+OT  - Geographic Location
+OT  - Teaching Methods
+OT  - Learning Processes
+OT  - Learner Engagement
+OT  - Educational Quality
+OT  - Educational Experience
+OT  - Learning Management Systems
+OT  - High School Students
+OT  - Language of Instruction
+OT  - Sleep
+OT  - Time Management
+OT  - Study Habits
+OT  - English (Second Language)
+OT  - Second Language Learning
+OT  - Dravidian Languages
+OT  - Computer Mediated Communication
+OT  - Foreign Countries
+JT  - Journal of Education and e-Learning Research
+SO  - v11 n1 p77-89 2024
+OID - EJ1430160
+VI  - 11
+IP  - 1
+PG  - 77-89
+DP  - 2024
+LID - http://eric.ed.gov/?id=EJ1430160
+AB  - Understanding the factors that influence students' results in hybrid learning environments is becoming increasingly important in today's educational environment. The goal of this research is to examine factors that influence students' academic performance as well as their level of participation in blended learning environments. A comprehensive study was conducted with 330 interested participants from the prestigious government polytechnics of the state of Karnataka in order to achieve this goal. Our data acquisition approach relied on the administration of a meticulously crafted survey questionnaire. The conceptual framework underpinning this study seamlessly integrates Transactional Distance Theory (TDT) principles with valuable insights derived from prior research. The Welch test and one-way ANOVA (Analysis of Variance) are two statistical approaches that we used selectively to reinforce our research which produced surprising results. These findings underscore the pivotal role played by certain specific factors. The geographical location of learners and the medium through which they pursue their studies have emerged as critical determinants significantly influencing academic performance. Aspects like the frequency of login activities and active engagement in forum discussions have been found to exert a positive influence on learners' academic performance. In contrast, the duration of sleep did not show a significant impact on performance. These insights bear tangible implications for teachers and policymakers who are dedicated to the enhancement of the quality of BL programs with the ultimate goal of enriching the overall educational experience.
+ISSN - ISSN-2518-0169
+ISSN - EISSN-2410-9991
+LA  - English
+PT  - Journal Articles
+PT  - Reports - Research
+
+OWN - ERIC
+TI  - Being More Human: Rooting Learning Analytics through "Re"sistance and "Re"connection with the Values of Higher Education
+AU  - Parkes, Sarah
+AU  - Benkwitz, Adam
+AU  - Bardy, Helen
+AU  - Myler, Kerry
+AU  - Peters, John
+OT  - Learning Analytics
+OT  - Higher Education
+OT  - Educational Objectives
+OT  - Foreign Countries
+OT  - School Holding Power
+OT  - Academic Achievement
+OT  - Values
+OT  - Neoliberalism
+OT  - Student Experience
+OT  - College Students
+JT  - Higher Education Research and Development
+SO  - v39 n1 p113-126 2020
+AID - http://dx.doi.org/10.1080/07294360.2019.1677569
+OID - EJ1239028
+VI  - 39
+IP  - 1
+PG  - 113-126
+DP  - 2020
+LID - http://eric.ed.gov/?id=EJ1239028
+AB  - Universities are now compelled to attend to metrics that (re)shape our conceptualisation of the student experience. New technologies such as learning analytics (LA) promise the ability to target personalised support to profiled 'at risk' students through mapping large-scale historic student engagement data such as attendance, library use, and virtual learning environment activity as well as demographic information and typical student outcomes. Yet serious ethical and implementation issues remain. Data-driven labelling of students as 'high risk', 'hard to reach' or 'vulnerable' creates conflict between promoting personal growth and human flourishing and treating people merely as data points. This article argues that universities must resist the assumption that numbers and algorithms alone can solve the 'problem' of student retention and performance; rather, LA work must be underpinned by a reconnection with the agreed values relating to the purpose of higher education, including democratic engagement, recognition of diverse and individual experience, and processes of becoming. Such a reconnection, this article contends, is possible when LA work is designed and implemented in genuine collaboration and partnership with students.
+ISSN - ISSN-0729-4360
+LA  - English
+PT  - Journal Articles
+PT  - Reports - Evaluative
+
+OWN - ERIC
+TI  - Motivating Youth to Learn STEM through a Gender Inclusive Digital Forensic Science Program
+AU  - Casey, Eoghan
+AU  - Jocz, Jennifer
+AU  - Peterson, Karen A.
+AU  - Pfeif, Daryl
+AU  - Soden, Cassy
+OT  - STEM Education
+OT  - Disproportionate Representation
+OT  - Females
+OT  - Program Design
+OT  - Program Implementation
+OT  - Skill Development
+OT  - Career Pathways
+OT  - Learner Engagement
+OT  - Youth
+OT  - Career Awareness
+OT  - Student Motivation
+OT  - Inclusion
+OT  - Gender Issues
+JT  - Smart Learning Environments
+SO  - v10 Article 2 2023
+AID - http://dx.doi.org/10.1186/s40561-022-00213-x
+OID - EJ1361303
+VI  - 10
+DP  - Article 2023
+LID - http://eric.ed.gov/?id=EJ1361303
+AB  - This paper describes the design, implementation and research of the Cyber Sleuth Science Lab (CSSL), an innovative educational program and supporting virtual learning environment, that combines pedagogical theory, gender inclusive instruction strategies, scientific principles/practices, gamification methods, computational thinking, and real-world problem solving. This program provides underrepresented youth, especially girls, with digital forensic knowledge, skills and career pathways, challenging them to explore complex social issues related to technology and to become cyber sleuths using real-world digital forensic methods and tools to solve investigative scenarios. Students also learn about related careers while improving their cyber street smarts. The CSSL incorporates additional "outside of the computer" activities to strengthen students' engagement such as structured in-classroom discussions, mock trials, and in-person interactions with practitioner role models. The CSSL was piloted in various forms to assess the suitability for in-school and out-of-school settings, and the students predominantly represented racial minorities. Research in this project relied on a mixed methods approach for data collection and analysis, including qualitative and quantitative methods, reinforced using learning analytics generated from the students clicking through the interface and interacting with the system. Analysis of gathered data indicate that the virtual learning environment developed in this project is highly effective for teaching digital forensic knowledge, skills, and abilities that are directly applicable in the workplace. Furthermore, the strategies for gender inclusive STEM instruction implemented in CSSL are effective for engaging girls without being harmful to boys' engagement. Learning STEM through digital forensic science taps into girls' motivations to address real-world problems that have direct relevance to their lives, and to protect and serve their community. After participating in the educational program, girls expressed a significantly greater increase in interest, relative to boys, in learning more about careers related to digital forensics and cybersecurity.
+ISSN - EISSN-2196-7091
+GR  - 1640107
+LA  - English
+PT  - Journal Articles
+PT  - Reports - Research
+
+OWN - ERIC
+TI  - Learning Management System for Greater Learner Engagement in Higher Education--A Review
+AU  - Veluvali, Parimala
+AU  - Surisetti, Jayesh
+OT  - Integrated Learning Systems
+OT  - Learner Engagement
+OT  - Higher Education
+OT  - Literature Reviews
+OT  - COVID-19
+OT  - Pandemics
+OT  - Online Courses
+OT  - Teaching Methods
+OT  - Learning Analytics
+JT  - Higher Education for the Future
+SO  - v9 n1 p107-121 Jan 2022
+AID - http://dx.doi.org/10.1177/23476311211049855
+OID - EJ1321088
+VI  - 9
+IP  - 1
+PG  - 107-121
+DP  - Jan 2022
+LID - http://eric.ed.gov/?id=EJ1321088
+AB  - Online education helped resume learning that had come to a momentary and uncertain pause with the onset of COVID-19 pandemic across the globe. Since then, learning in many educational institutions continued through synchronous and asynchronous modes, with teaching being undertaken remotely on digital platforms. In this large-scale migration towards online mode of curriculum delivery induced by the pandemic, the institutional learning management system (LMS) had a critical role to play in ensuring uninterrupted learning and student engagement. By drawing heavily from extant works, learnings from MOOC platforms, observations from the LMS applications in corporate training, the present article synthesis the extant literature on how the effective use of LMS can make the learning process interactive, student centric, catering to the needs of diverse learners in higher education.
+ISSN - ISSN-2347-6311
+LA  - English
+PT  - Journal Articles
+PT  - Reports - Descriptive
+PT  - Information Analyses
+
+OWN - ERIC
+TI  - Learning Analytics Approaches for Decision-Making in First-Year Engineering Courses
+AU  - Laura Melissa Cruz Castro
+OT  - Learning Analytics
+OT  - Decision Making
+OT  - Engineering Education
+OT  - College Freshmen
+OT  - Academic Achievement
+OT  - Program Evaluation
+OT  - Program Design
+OT  - Computation
+OT  - Thinking Skills
+OT  - Self Management
+OT  - Outcomes of Education
+OT  - Data Use
+OT  - Learning Management Systems
+OT  - First Year Seminars
+JT  - ProQuest LLC
+SO  - Ph.D. Dissertation, Purdue University
+AID - http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&res_dat=xri:pqm&rft_dat=xri:pqdiss:30685624
+OID - ED640280
+DP  - 2023
+LID - http://eric.ed.gov/?id=ED640280
+AB  - First-Year Engineering (FYE) programs are a critical part of engineering education, yet they are quite complex settings. Given the importance and complexity of FYE programs, research to better understand student learning and inform design and assessment in FYE programs is imperative. Therefore, this dissertation showcases various uses of data analytics and educational theory to support decision-making when designing and assessing FYE programs. Three case studies shape this dissertation work. Each study encompasses a variety of educational data sources, analytical methods, and decision-making tools to produce valuable findings for FYE classrooms. In addition, this dissertation also discusses the potential for incorporating data analytics into FYE programs. A more detailed description of the research methods, a summary of findings, and a list of resulting publications for each case study follows. The first case study investigated the relationship between two related Computational Thinking (CT) practices, data practices and computational problem-solving practices, in acquiring other CT competencies in a large FYE course setting. This study explored the following research questions: (1) What are the different student profiles that characterize their foundational CT practices at the beginning of the semester? and (2) Within these profiles, what are the progressions that students follow in the acquisition of advanced CT practices? To answer these questions, N-TARP Clustering, a novel machine learning algorithm, and sound statistical tools were used to analyze assessment data from the course at the learning objective level. Such a hybrid approach was needed due to the high-dimensionality and homogeneity characteristics of the assessment. It was found that early mastery of troubleshooting and debugging is linked to the successful acquisition of more complex CT competencies. This research was published in an article in the journal IEEEAccess. The second case study examined self-regulation components associated with students' successful acquisition of CT skills using students' reflections and assessment data. This research was grounded in three subprocesses of the Self-Regulated Learning (SRL) theory: strategic planning, access to feedback, and self-evaluation. This study responded to the following research question: What is the relationship between SRL subprocesses: access to feedback, self-evaluation, strategic planning, and the acquisition of CT skills in an FYE course? Results from a structural equation model, which reflects the complexity and multidimensionality of the analysis, provided evidence of the relevance of the three subprocesses in the acquisition of CT skills and highlighted the importance of self-assessment as key to success in the acquisition of programming skills. Furthermore, self-assessment was found to effectively represent the task strategy and access to feedback from the students. This analysis led to the understanding that even though the three SRL subprocesses are relevant for the student's success, self-evaluation serves as a catalyst between strategic planning and access to feedback. A resulting article from this case study will be submitted to the International Journal of Engineering Education in the future. Lastly, the third study aimed to predict the students' learning outcomes using data from the Learning Management System (LMS) in an FYE course. The following research questions were explored in this case study: (1) What type of LMS objects contain information to explain students' grades in a FYE course? (2) Is the inclusion of a human operator during the data transformation process significant to the analysis of learning outcomes? Two different sections of a large FYE course were used, one serving as a training data set and the other one as a testing data set. Two logistic regression models were trained. The first model corresponded to a common approach for building a predictive model, using the data from the LMS directly. The second model considered the specifics of the course by transforming the data from aggregate user interaction to more granular categories related to the content of the class. A comparison was made between the predictive measures, e.g., precision, accuracy, recall, and F1 score for both models. The findings from the transformed data set indicate that students' engagement with the career exploration curriculum was the strongest predictor of students' final grades in the course. This is a fascinating finding because the amount of weight the career assignments contributed to the overall course grade was relatively low. This study will be presented at the 2022 American Society of Engineering Education (ASEE) national conference in Minneapolis, Minnesota. [The dissertation citations contained here are published with the permission of ProQuest LLC. Further reproduction is prohibited without permission. Copies of dissertations may be obtained by Telephone (800) 1-800-521-0600. Web page: http://www.proquest.com/en-US/products/dissertations/individuals.shtml.]
+ISBN - 979-8-3807-2673-3
+PT  - Dissertations/Theses - Doctoral Dissertations
+
+OWN - ERIC
+TI  - Session-Based Methods for Course Recommendation
+AU  - Md Akib Zabed Khan
+AU  - Agoritsa Polyzou
+OT  - Academic Advising
+OT  - Courses
+OT  - Data Use
+OT  - Artificial Intelligence
+OT  - Algorithms
+OT  - Models
+OT  - Course Selection (Students)
+OT  - Decision Making
+OT  - Learning Management Systems
+OT  - Computer Software
+OT  - Enrollment
+OT  - Higher Education
+JT  - Journal of Educational Data Mining
+SO  - v16 n1 p164-196 2024
+OID - EJ1431129
+VI  - 16
+IP  - 1
+PG  - 164-196
+DP  - 2024
+LID - http://eric.ed.gov/?id=EJ1431129
+AB  - In higher education, academic advising is crucial to students' decision-making. Data-driven models can benefit students in making informed decisions by providing insightful recommendations for completing their degrees. To suggest courses for the upcoming semester, various course recommendation models have been proposed in the literature using different data mining techniques and machine learning algorithms utilizing different data types. One important aspect of the data is that usually, courses taken together in a semester fit well with each other. If there is no correlation between the co-taken courses, students may find it more difficult to handle the workload. Based on this insight, we propose using session-based approaches to recommend a set of well-suited courses for the upcoming semester. We test three session-based course recommendation models, two based on neural networks (CourseBEACON and CourseDREAM) and one on tensor factorization (TF-CoC). Additionally, we propose a post-processing approach to adjust the recommendation scores of any base course recommender to promote related courses. Using metrics capturing different aspects of the recommendation quality, our experimental evaluation shows that session-based methods outperform existing popularity-based, association-based, similarity-based, factorization-based, neural networks-based, and Markov chain-based recommendation approaches. Effective course recommendations can result in improved student advising, which, in turn, can improve student performance, decrease dropout rates, and a more positive overall student experience and satisfaction.
+ISSN - EISSN-2157-2100
+LA  - English
+PT  - Journal Articles
+PT  - Reports - Research
+
+OWN - ERIC
+TI  - A Human-Centred Learning Analytics Approach for Developing Contextually Scalable K-12 Teacher Dashboards
+AU  - Korah Wiley
+AU  - Yannis Dimitriadis
+AU  - Marcia Linn
+OT  - Learning Analytics
+OT  - Learning Management Systems
+OT  - Kindergarten
+OT  - Elementary Secondary Education
+OT  - Teacher Attitudes
+OT  - Lesson Plans
+OT  - Instructional Materials
+OT  - Educational Needs
+OT  - Learner Engagement
+OT  - Outcomes of Education
+OT  - Teaching Methods
+JT  - British Journal of Educational Technology
+SO  - v55 n3 p845-885 2024
+AID - http://dx.doi.org/10.1111/bjet.13383
+OID - EJ1419183
+VI  - 55
+IP  - 3
+PG  - 845-885
+DP  - 2024
+LID - http://eric.ed.gov/?id=EJ1419183
+AB  - This paper describes a Human-Centred Learning Analytics (HCLA) design approach for developing learning analytics (LA) dashboards for K-12 classrooms that maintain both contextual relevance and scalability--two goals that are often in competition. Using mixed methods, we collected observational and interview data from teacher partners and assessment data from their students' engagement with the lesson materials. This DBR-based, human-centred design process resulted in a dashboard that supported teachers in addressing their students' learning needs. To develop the dashboard features that could support teachers, we found that a design refinement process that drew on the insights of teachers with varying teaching experience, philosophies and teaching contexts strengthened the resulting outcome. The versatile nature of the approach, in terms of student learning outcomes, makes it useful for HCLA design efforts across diverse K-12 educational contexts.
+ISSN - ISSN-0007-1013
+ISSN - EISSN-1467-8535
+GR  - 1813713
+LA  - English
+PT  - Journal Articles
+PT  - Reports - Research
+PT  - Tests/Questionnaires
+
+OWN - ERIC
+TI  - The Role of ICAP in Effective Course Design: A Learning Analytic Evaluation
+AU  - Ha, Jesse
+OT  - Learning Theories
+OT  - Learner Engagement
+OT  - Cooperative Learning
+OT  - College Science
+OT  - College Students
+OT  - Chemistry
+OT  - Grades (Scholastic)
+OT  - Academic Persistence
+OT  - Student Attrition
+OT  - Grade Point Average
+OT  - Scores
+OT  - Tests
+JT  - ProQuest LLC
+SO  - Ph.D. Dissertation, Arizona State University
+AID - http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&res_dat=xri:pqm&rft_dat=xri:pqdiss:29163568
+OID - ED624859
+DP  - 2022
+LID - http://eric.ed.gov/?id=ED624859
+AB  - Recently, the Interactive-Constructive-Active-Passive (ICAP) framework has been gaining increasing prominence in cognitive and learning sciences. The ICAP theory asserts that students learn more deeply when they are cognitively engaged in generative and collaborative learning. Indeed, prior studies have established the value of the ICAP framework for predicting student learning. However, the framework has yet to become widely used by practitioners, possibly due to the lack of accessible resources for applying the framework instruction design. This study sought to fill that gap by implementing and validating the ICAP instructional rubric instrument to rate the design of college chemistry courses at a large public university in the southwest and exploring its relationships with several metrics of student performance via multiple regression analysis: a) level of participation; b) final exam grades; c) course grades; d) course retention; and e) course attrition. This study analyzed data from the university's learning management system and included student-level controls such as markers of prior academic performance (i.e., GPA and SAT scores) as well as student demographics. The findings of this study suggest that the ICAP framework may be a useful tool for instructors to improve course design. In addition, the ICAP framework's predictive claims on student deeper learning were further validated by the results of this study. [The dissertation citations contained here are published with the permission of ProQuest LLC. Further reproduction is prohibited without permission. Copies of dissertations may be obtained by Telephone (800) 1-800-521-0600. Web page: http://www.proquest.com/en-US/products/dissertations/individuals.shtml.]
+ISBN - 979-8-8027-1703-5
+PT  - Dissertations/Theses - Doctoral Dissertations
+
+OWN - ERIC
+TI  - A Comprehensive Survey on Usage of Learning Analytics for Enhancing Learner's Performance in Learning Portals
+AU  - Shabnam Ara, S. J.
+AU  - Tanuja, R.
+AU  - Manjula, S. H.
+AU  - Venugopal, K. R.
+OT  - Learning Analytics
+OT  - Learning Management Systems
+OT  - Academic Achievement
+OT  - Prediction
+OT  - Student Improvement
+OT  - Learning Activities
+OT  - At Risk Students
+OT  - MOOCs
+OT  - Intervention
+JT  - Journal of Educational Technology Systems
+SO  - v52 n2 p245-273 2023
+AID - http://dx.doi.org/10.1177/00472395231185843
+OID - EJ1399343
+VI  - 52
+IP  - 2
+PG  - 245-273
+DP  - 2023
+LID - http://eric.ed.gov/?id=EJ1399343
+AB  - Learning analytics (LA) is considered a promising field of study as it's helping to improve learning and the context in which it occurs. A learner's performance can be defined as how well students are learning in terms of knowledge and skills development and can be analyzed based on students' outcomes and engagement in the course. We have consolidated the work carried out from 2011 to 2022 to improve learners' performance using LA, describe criteria that define learners' performance, discuss parameters that impact learners' performance, and how predictive models can be created to forecast learners' performance using these parameters. Results showed that the data collected from log files of the Learning Management System (LMS) had been used to get insights into the learner's performance in online platforms and LA could bring incredible benefits in the field of the education sector, such as improvement of learners' involvement with learning activities as well as learning outcomes, identification of students at risk, providing real-time feedback, and personalization of learning. Hence, we can say usage of LA significantly helps learners' performance improvement in learning portals. But we can get better results if we augment data from log files of LMS with the learner's personal data from his birth to the current moment, which is a bit challenging with respect to data collection i.e., huge and from multiple sources.
+ISSN - ISSN-0047-2395
+ISSN - EISSN-1541-3810
+LA  - English
+PT  - Journal Articles
+PT  - Information Analyses
+PT  - Reports - Research
+
+OWN - ERIC
+TI  - Student-Centric Model of Login Patterns: A Case Study with Learning Management Systems
+AU  - Mandalapu, Varun
+AU  - Chen, Lujie Karen
+AU  - Chen, Zhiyuan
+AU  - Gong, Jiaqi
+OT  - Integrated Learning Systems
+OT  - Interaction
+OT  - Undergraduate Students
+OT  - Minority Group Students
+OT  - College Transfer Students
+OT  - Student Characteristics
+OT  - Grade Point Average
+OT  - Racial Differences
+OT  - Ethnicity
+OT  - Behavior Patterns
+OT  - Intervals
+OT  - Learning Analytics
+OT  - Performance Factors
+OT  - Predictor Variables
+OT  - Models
+OT  - Public Colleges
+JT  - International Educational Data Mining Society
+SO  - Paper presented at the International Conference on Educational Data Mining (EDM) (14th, Online, Jun 29-Jul 2, 2021)
+OID - ED615654
+DP  - 2021
+LID - http://eric.ed.gov/?id=ED615654
+AB  - With the increasing adoption of Learning Management Systems (LMS) in colleges and universities, research in exploring the interaction data captured by these systems is promising in developing a better learning environment and improving teaching practice. Most of these research efforts focused on course-level variables to predict student performance in specific courses. However, these research findings for individual courses are limited to develop beneficial pedagogical interventions at the student level because students often have multiple courses simultaneously. This paper argues that student-centric models will provide systematic insights into students' learning behavior to develop effective teaching practice. This study analyzed 1651 undergraduate student's data collected in Fall 2019 from computer science and information systems departments at a US university that actively uses Blackboard as an LMS. The experimental results demonstrated the prediction performance of student-centric models and explained the influence of various predictors related to login volumes, login regularity, login chronotypes, and demographics on predictive models. Our findings show that student prior performance and normalized student login volume across courses significantly impact student performance models. We also observe that regularity in student logins has a significant influence on low performing students and students from minority races. Based on these findings, the implications were discussed to develop potential teaching practices for these students. [For the full proceedings, see ED615472.]
+PT  - Reports - Research
+PT  - Speeches/Meeting Papers
+
+OWN - ERIC
+TI  - Understanding Factors Influencing Online Undergraduate Engineering Students' Persistence Decisions
+AU  - Javeed Kittur
+OT  - Influences
+OT  - Online Courses
+OT  - Undergraduate Students
+OT  - Engineering Education
+OT  - Undergraduate Study
+OT  - Academic Persistence
+OT  - Time on Task
+OT  - Student Behavior
+OT  - Withdrawal (Education)
+OT  - Interpersonal Relationship
+OT  - Learner Engagement
+JT  - ProQuest LLC
+SO  - Ph.D. Dissertation, Arizona State University
+AID - http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&res_dat=xri:pqm&rft_dat=xri:pqdiss:29261537
+OID - ED646930
+DP  - 2022
+LID - http://eric.ed.gov/?id=ED646930
+AB  - Online education is fast growing due to its accessibility and scalability, but engineering has fallen behind other fields in adopting and researching the online educational format. Student course-level attrition is a significant issue in online courses. The goal of this dissertation is to better understand the factors that impact course level persistence decisions among online undergraduate engineering students. Three different research methodologies were employed for this study: a systematic literature review (SLR), learning analytics and data mining, and multi-level modeling. The SLR focuses on understanding the temporal trends and findings from research in online engineering education. A total of thirty-nine articles published between 2011 to 2020 met inclusion criteria, and the synthesis of these articles revealed five themes: content design and delivery, student engagement and interactions, assessment, feedback, and challenges in online engineering. Theoretical, methodological, and publication trends across the forty articles were also summarized. Data for the second study was compiled from 81 courses contained within three online, ABET-accredited undergraduate engineering degree programs at a large, public institution in the southwestern United States. The students' learning management system (LMS) interaction data was utilized to create features that represent the amount of time students spent on different course activities and how those times differed from "typical" interaction patterns among students in the same course. Association rule mining was used to develop rules that describe the behavior of students who completed the course (i.e., completers) and those who opted to withdraw (i.e., leavers). The best measure of student engagement was determined to be the mathematical difference between the percentages of completer and leaver rules met by each student. Finally, multi-level modeling was used to examine the impact of interpersonal interactions on online undergraduate engineering students' course-level persistence intentions. The data for this study was gathered from online courses during the 2019-2020 academic year. Students completed questionnaires about their course and related persistence intentions twelve times during their 7.5-week online course. Students' perceptions of the course LMS dialog, instructor practices, and peer support were found to significantly predict their course persistence intentions. [The dissertation citations contained here are published with the permission of ProQuest LLC. Further reproduction is prohibited without permission. Copies of dissertations may be obtained by Telephone (800) 1-800-521-0600. Web page: http://www.proquest.com/en-US/products/dissertations/individuals.shtml.]
+ISBN - 979-8-8417-7672-7
+PT  - Dissertations/Theses - Doctoral Dissertations
+
+OWN - ERIC
+TI  - Open versus Traditional Textbooks: A Comparison of Student Engagement and Performance
+AU  - Chang, Isabelle
+OT  - Textbooks
+OT  - Open Educational Resources
+OT  - Learner Engagement
+OT  - Performance Factors
+OT  - Grades (Scholastic)
+OT  - Attendance
+OT  - Assignments
+OT  - Time Management
+OT  - Learning Analytics
+OT  - Instructional Effectiveness
+OT  - Undergraduate Students
+OT  - Academic Achievement
+OT  - Urban Universities
+OT  - Research Universities
+JT  - International Journal of Teaching and Learning in Higher Education
+SO  - v32 n3 p486-498 2020
+OID - EJ1300061
+VI  - 32
+IP  - 3
+PG  - 486-498
+DP  - 2020
+LID - http://eric.ed.gov/?id=EJ1300061
+AB  - This study compared student engagement and performance in both open educational resources (OER) (n[open textbook users fall 2018] = 72) and traditional textbook (n[traditional textbook users fall 2017] = 66) classes. Data were drawn from the Learning Management System (LMS). Results show (1) final grades in the OER class were on a par with the traditional textbook class, and (2) OER equalize student engagement and performance by narrowing the dispersions of page views, on-time assignment submissions (OTAS), attendance, and final grades. (3) OER increased attendance and lessened excessive dependence on LMS course materials recorded in the traditional class. (4) The indirect effect of attendance on final grades was stronger than the direct effect of OTAS in the OER class. Attendance provided the opportunity for the instructor and students to be on the "same page," which helps students better assimilate course content and comprehend lectures. (5) The availability of textbooks appears to be a factor influencing student course success. However, it remains unknown how much of the variance was explained by OER. It is apparent that OER are more important than ever in elevating overall student academic success.
+ISSN - EISSN-1812-9129
+LA  - English
+PT  - Journal Articles
+PT  - Reports - Research
+
+OWN - ERIC
+TI  - Predicting Student Final Performance Using Artificial Neural Networks in Online Learning Environments
+AU  - Aydogdu, Seyhmus
+OT  - Prediction
+OT  - Academic Achievement
+OT  - Electronic Learning
+OT  - Artificial Intelligence
+OT  - Homework
+OT  - Scores
+OT  - Gender Differences
+OT  - Management Systems
+OT  - College Students
+OT  - Time Factors (Learning)
+OT  - Attendance
+OT  - Course Content
+OT  - Data Analysis
+OT  - Teaching Methods
+JT  - Education and Information Technologies
+SO  - v25 n3 p1913-1927 May 2020
+AID - http://dx.doi.org/10.1007/s10639-019-10053-x
+OID - EJ1253324
+VI  - 25
+IP  - 3
+PG  - 1913-1927
+DP  - May 2020
+LID - http://eric.ed.gov/?id=EJ1253324
+AB  - Prediction of student performance is one of the most important subjects of educational data mining. Artificial neural networks are seen to be an effective tool in predicting student performance in e-learning environments. In the studies carried out with artificial neural networks, performance predictions based on student scores are generally made, but students' use of learning management system is not focused. In this study, performances of 3518 university students, who studying and actively participating in a learning management system, were tried to be predicted by artificial neural networks in terms of gender, content score, time spent on the content, number of entries to content, homework score, number of attendance to live sessions, total time spent in live sessions, number of attendance to archived courses and total time spent in archived courses variables. Since it is difficult to interpret how much input variables in artificial neural networks contribute to predicting output variables, these networks are called black boxes. Also, in this study the amount of contribution of input variables on the prediction of output variable was also examined. The artificial neural network created as a result of the study makes a prediction with an accuracy of 80.47%. Finally, it was found that the variables of number of attendance to the live classes, the number of attendance to archived courses and the time spent in the content contributed most to the prediction of the output variable.
+ISSN - ISSN-1360-2357
+LA  - English
+PT  - Journal Articles
+PT  - Reports - Research
+
+OWN - ERIC
+TI  - Beyond Performance Analytics: Using Learning Analytics to Understand Learning Processes That Lead to Improved Learning Outcomes
+AU  - Vanacore, Kirk P.
+AU  - Lee, Ji-Eun
+AU  - Egorova, Alena
+AU  - Ottmar, Erin
+OT  - Learning Analytics
+OT  - Outcomes of Education
+OT  - Problem Solving
+OT  - Learning Processes
+OT  - Mathematics Instruction
+OT  - Learner Engagement
+OT  - Learning Management Systems
+OT  - Educational Improvement
+OT  - Computer Assisted Instruction
+OT  - Futures (of Society)
+JT  - Grantee Submission
+AID - http://doi.org/10.4018/978-1-6684-9527-8.ch009
+OID - ED634636
+DP  - 2023
+LID - http://eric.ed.gov/?id=ED634636
+AB  - To meet the goal of understanding students' complex learning processes and maximizing their learning outcomes, the field of learning analytics delves into the myriad of data captured as students use computer assisted learning platforms. Although many platforms associated with learning analytics focus on students' performance, performance on learning related tasks is a limited measure of learning itself. In this chapter, the authors review research that leverages data collected in programs to understand specific learning processes and contribute to a robust vision of knowledge acquisition. In particular, they review work related to two important aspects of the learning process--students' problem-solving strategies and behavioral engagement--then provide an example of an effective math program that focuses on the learning process over correct or incorrect responses. Finally, they discuss ways in which the findings from this research can be incorporated into the development and improvement of computer assisted learning platforms, with the goal of maximizing students' learning outcomes. [This a chapter in: "Perspectives on Learning Analytics for Maximizing Student Outcomes," 168-187, IGI Global.
+GR  - R305A180401
+PT  - Reports - Research
+
+OWN - ERIC
+TI  - The Effectiveness of Nudging Key Learning Resources to Support Online Engagement in Higher Education Courses
+AU  - Alice Brown
+AU  - Jill Lawrence
+AU  - Megan Axelsen
+AU  - Petrea Redmond
+AU  - Joanna Turner
+AU  - Suzanne Maloney
+AU  - Linda Galligan
+OT  - Foreign Countries
+OT  - College Students
+OT  - Intervention
+OT  - Learning Management Systems
+OT  - Computer Mediated Communication
+OT  - Electronic Learning
+OT  - Educational Resources
+OT  - Learner Engagement
+OT  - Online Courses
+OT  - User Needs (Information)
+OT  - Teacher Influence
+OT  - Classroom Techniques
+JT  - Distance Education
+SO  - v45 n1 p83-102 2024
+AID - http://dx.doi.org/10.1080/01587919.2024.2303491
+OID - EJ1412820
+VI  - 45
+IP  - 1
+PG  - 83-102
+DP  - 2024
+LID - http://eric.ed.gov/?id=EJ1412820
+AB  - Nudging has been used in a range of fields to shape citizens' behavior and promote public priorities. However, in educational contexts, nudges have only been explored relatively recently, with limited but promising evidence for the role of nudging used to increase engagement in online study, particularly in higher education. This paper reports on findings from a project that investigated the use of nudging in course-specific online learning contexts. The project evaluated the effectiveness of an intervention that combined course learning analytics data with a nudge strategy that encouraged students' engagement with crucial course resources. When implemented in a planned and strategic manner in online courses, findings show that nudging offers a promising strategy for motivating students to access key online resources.
+ISSN - ISSN-0158-7919
+ISSN - EISSN-1475-0198
+LA  - English
+PT  - Journal Articles
+PT  - Reports - Research
+
+OWN - ERIC
+TI  - Learning Analytics as a Predictive Tool in Assessing Students' Online Learning Navigational Behavior and Their Performance
+AU  - Shalini Nagaratnam
+AU  - Christina Vanathas
+AU  - Muhammad Naeim Mohd Aris
+AU  - Jeevanithya Krishnan
+OT  - Learning Analytics
+OT  - Online Courses
+OT  - Active Learning
+OT  - Learning Management Systems
+OT  - Private Colleges
+OT  - Academic Achievement
+OT  - College Students
+OT  - Learning Activities
+OT  - Foreign Countries
+OT  - Early Intervention
+OT  - Self Control
+JT  - International Society for Technology, Education, and Science
+SO  - Paper presented at the International Conference on Research in Education and Science (ICRES) (Cappadocia, Turkey, May 18-21, 2023)
+OID - ED654581
+DP  - 2023
+LID - http://eric.ed.gov/?id=ED654581
+AB  - Learning Analytics (LA) captures the digital footprint of students' online learning activity. This study describes students' navigational behavior in an e-learning setting by processing the LA data obtained from Blackboard LMS. This is an attempt to understand the navigational behavior of students and the relationship with learning performance. The study was carried out with 88 learners from a Malaysian private university. The course sites' log data and students' performance were analyzed, and the results were as follows: 4 navigational behaviors played an important role in student's academic performance which are active days, total learning time, number of views, and days delayed in accessing the assessment. Active learning from Tuesdays to Thursdays had a significant positive effect on performance. It was found that the higher activities (total learning time, number of journals viewing) translate to better performance. Days delayed in attempting assessments had a significant but mixed effect on performance, depending on the type of assessment. However, the number of logins is insignificant. The findings of this study provide empirical evidence of the importance of self-discipline in online learning and provide instructors with a predictive measure as a call for early intervention to help online students. [For the full proceedings, see ED654100.]
+PT  - Speeches/Meeting Papers
+PT  - Reports - Research
+
+OWN - ERIC
+TI  - Modified Fuzzy Rule-Based Classification System for Early Warning of Student Learning
+AU  - Zhao, Qun
+AU  - Wang, Jin-Long
+AU  - Pao, Tsang-Long
+AU  - Wang, Li-Yu
+OT  - Classification
+OT  - Learning
+OT  - Accuracy
+OT  - Prediction
+OT  - Data Use
+OT  - Integrated Learning Systems
+OT  - Student Evaluation
+OT  - Learning Analytics
+OT  - College Students
+JT  - Journal of Educational Technology Systems
+SO  - v48 n3 p385-406 Mar 2020
+AID - http://dx.doi.org/10.1177/0047239519869324
+OID - EJ1240438
+VI  - 48
+IP  - 3
+PG  - 385-406
+DP  - Mar 2020
+LID - http://eric.ed.gov/?id=EJ1240438
+AB  - This study uses the log data from Moodle learning management system for predicting student learning performance in the first third of a semester. Since the quality of the data has great influence on the accuracy of machine learning, five major data transmission methods are used to enhance data quality of log file in the data preprocessing stage. Furthermore, the modified FRBCS-CHI (fuzzy rule-based classification system using Chi's technique) algorithm, based on the weighted consequence, is proposed to improve the prediction accuracy of classification. Thereafter, the confusion matrix with two dimensions is employed to illustrate the prediction results, such as false positives, false negatives, true positives, and true negatives, which are further used to produce the parameters of prediction performance, including the precision rate, the recall rate, and the F-measure. From the results of experiment, the proposed modified FRBCS-CHI method will have higher prediction accuracy than the original FRBCS-CHI method.
+ISSN - ISSN-0047-2395
+LA  - English
+PT  - Journal Articles
+PT  - Reports - Research
+
+OWN - ERIC
+TI  - Explainable AI (XAI): Improving At-Risk Student Prediction with Theory-Guided Data Science, K-Means Classification, and Genetic Programming
+AU  - Bui, Ngoc Van P.
+OT  - Artificial Intelligence
+OT  - At Risk Students
+OT  - Prediction
+OT  - Data Science
+OT  - Classification
+OT  - Models
+OT  - School Holding Power
+OT  - Data Analysis
+OT  - Trust (Psychology)
+OT  - Ethics
+OT  - Instructional Improvement
+JT  - ProQuest LLC
+SO  - Dr.Ed. Dissertation, Sam Houston State University
+AID - http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&res_dat=xri:pqm&rft_dat=xri:pqdiss:30274119
+OID - ED631288
+DP  - 2022
+LID - http://eric.ed.gov/?id=ED631288
+AB  - This research explores the use of eXplainable Artificial Intelligence (XAI) in Educational Data Mining (EDM) to improve the performance and explainability of artificial intelligence (AI) and machine learning (ML) models predicting at-risk students. Explainable predictions provide students and educators with more insight into at-risk indicators and causes, which facilitates instructional intervention guidance.&#xa0;Historically, low student retention has been prevalent across the globe as nations have implemented a wide range of interventions (e.g., policies, funding, and academic strategies) with only minimal improvements in recent years (Stolk et al., 2007). In the US, recent attrition rates indicate two out of five first-time freshman students will not graduate from the same four-year institution within six years (NCES, 2020). In response, emerging AI research leveraging recent advancements in Deep Learning has demonstrated high predictive accuracy for identifying at-risk students, which is useful for planning instructional interventions. However, research suggested a general trade-off between performance and explainability of predictive models (Arrieta et al., 2020; Gunning et al., 2019). Those that outperform, such as deep neural networks (DNN), are highly complex and considered black boxes (i.e., systems that are difficult to explain, interpret, and understand). The lack of model transparency/explainability results in shallow predictions with limited feedback prohibiting useful intervention guidance. Furthermore, concerns for trust and ethical use are raised for decision-making applications that involve humans, such as health, safety, and education. To address low student retention and the lack of interpretable models, this research explored the use of eXplainable Artificial Intelligence (XAI) in Educational Data Mining (EDM) to improve instruction and learning. More specifically, XAI has the potential to enhance the performance and explainability of AI/ML models predicting at-risk students. The scope of this study includes a hybrid research design comprising: (1) a systematic literature review of XAI and EDM applications in education; (2) the development of a theory-guided feature selection (TGFS) conceptual learning model; and (3) an EDM study exploring the efficacy of a TGFS XAI model. The EDM study implemented K-Means Classification for explorative (unsupervised) and predictive (supervised) analysis in addition to assessing Genetic Programming (GP), a type of XAI model, predictive performance, and explainability against common AI/ML models. Online student activity and performance data were collected from a learning management system (LMS) from a four-year higher education institution. Student data was anonymized and protected to ensure data privacy and security. Data was aggregated at weekly intervals to compute and assess the predictive performance (sensitivity, recall, and f-1 score) over time. Mean differences and effect sizes are reported at the 0.05 significance level. Reliability and validity are improved by implementing research best practices (J. Cohen, 1988; Field, 2018; He et al., 2016). [The dissertation citations contained here are published with the permission of ProQuest LLC. Further reproduction is prohibited without permission. Copies of dissertations may be obtained by Telephone (800) 1-800-521-0600. Web page: http://www.proquest.com/en-US/products/dissertations/individuals.shtml.]
+ISBN - 979-8-3575-9021-3
+PT  - Dissertations/Theses - Doctoral Dissertations
+
+OWN - ERIC
+TI  - WeBWorK Log Files as a Rich Source of Data on Student Homework Behaviours
+AU  - Prat, Alain
+AU  - Code, Warren J.
+OT  - Data Analysis
+OT  - Homework
+OT  - Student Behavior
+OT  - Educational Technology
+OT  - Calculus
+OT  - Mathematics Education
+OT  - Undergraduate Students
+OT  - Learning Analytics
+OT  - Time on Task
+JT  - International Journal of Mathematical Education in Science and Technology
+SO  - v52 n10 p1540-1556 2021
+AID - http://dx.doi.org/10.1080/0020739X.2020.1782492
+OID - EJ1310901
+VI  - 52
+IP  - 10
+PG  - 1540-1556
+DP  - 2021
+LID - http://eric.ed.gov/?id=EJ1310901
+AB  - The online homework system WeBWorK has been successfully used at several hundred colleges and universities. Despite its popularity, the WeBWorK system does not provide detailed metrics of student performance to instructors. In this article, we illustrate how an analysis of the log files of the WeBWorK system can provide information such as the amount of time students spend on WeBWorK assignments and how long they persist on problems. We estimate the time spent on an assignment by combining log file events into sessions of student activity. The validity of this method is confirmed by cross referencing with another time estimate obtained from a learning management system. As an application of these performance metrics, we contrast the behaviour of students with WeBWorK scores less than 50% with the remainder of the class in a first year Calculus course. This reveals that on average, the students who perform poorly on their homework start later, have shorter activity sessions, and are less persistent when solving problems. We conclude by discussing the implications of WeBWorK analytics for instructional practices and for the future of learning analytics in undergraduate mathematics education.
+ISSN - ISSN-0020-739X
+LA  - English
+PT  - Journal Articles
+PT  - Reports - Research
+
+OWN - ERIC
+TI  - When "Blended" Becomes "Online": A Data-Driven Study on the Change of Self-Directed Engagement during COVID-19
+AU  - Foung, Dennis
+AU  - Chen, Julia
+AU  - Lin, Linda
+OT  - Blended Learning
+OT  - Universities
+OT  - Educational Change
+OT  - COVID-19
+OT  - Pandemics
+OT  - Computer Assisted Instruction
+OT  - English for Academic Purposes
+OT  - Foreign Countries
+OT  - Learning Analytics
+OT  - Integrated Learning Systems
+OT  - Learner Engagement
+OT  - Independent Study
+OT  - Outcomes of Education
+OT  - Self Management
+OT  - College Students
+OT  - Electronic Learning
+OT  - Online Courses
+JT  - CALICO Journal
+SO  - v39 n1 p1-25 2022
+AID - https://doi.org/10.1558/cj.19666
+OID - EJ1330323
+VI  - 39
+IP  - 1
+PG  - 1-25
+DP  - 2022
+LID - http://eric.ed.gov/?id=EJ1330323
+AB  - With the outbreak of COVID-19 in 2020, many universities shifted to online teaching. However, some online instruction had already been implemented well before the pandemic. This study investigates (1) how engagement in blended CALL activities differed during the pandemic, and (2) in what ways the assessment outcomes were associated with student engagement during the pandemic. The study was conducted in an English for academic purposes (EAP) course at a Hong Kong university that had already implemented blended learning for several years. Adopting an analytics-based approach, 469,286 data logs in a learning management system were analyzed to measure students' engagement and their respective self-directed behavior. The retrieved student data covered the time both before and during the pandemic. Our findings reveal that students were primarily engaged for assessment purposes; however, those in the pandemic cohort demonstrated better self-directed behavior, such as early and regular engagement. Although the results indicated a relatively strong association between student engagement and course outcomes, the students during the pandemic seem to have managed their learning more effectively.
+ISSN - EISSN-2056-9017
+LA  - English
+PT  - Journal Articles
+PT  - Reports - Research
+
+OWN - ERIC
+TI  - Scale up Predictive Models for Early Detection of At-Risk Students: A Feasibility Study
+AU  - Cui, Ying
+AU  - Chen, Fu
+AU  - Shiri, Ali
+OT  - Foreign Countries
+OT  - Identification
+OT  - At Risk Students
+OT  - Prediction
+OT  - Models
+OT  - Data Analysis
+OT  - Predictor Variables
+OT  - Academic Achievement
+OT  - Artificial Intelligence
+OT  - Undergraduate Students
+OT  - Student Characteristics
+JT  - Information and Learning Sciences
+SO  - v121 n3-4 p97-116 2020
+AID - http://dx.doi.org/10.1108/ILS-05-2019-0041
+OID - EJ1361986
+VI  - 121
+PG  - 97-116
+DP  - 2020
+LID - http://eric.ed.gov/?id=EJ1361986
+AB  - Purpose: This study aims to investigate the feasibility of developing general predictive models for using the learning management system (LMS) data to predict student performances in various courses. The authors focused on examining three practical but important questions: are there a common set of student activity variables that predict student performance in different courses? Which machine-learning classifiers tend to perform consistently well across different courses? Can the authors develop a general model for use in multiple courses to predict student performance based on LMS data? Design/methodology/approach: Three mandatory undergraduate courses with large class sizes were selected from three different faculties at a large Western Canadian University, namely, faculties of science, engineering and education. Course-specific models for these three courses were built and compared using data from two semesters, one for model building and the other for generalizability testing. Findings: The investigation has led the authors to conclude that it is not desirable to develop a general model in predicting course failure across variable courses. However, for the science course, the predictive model, which was built on data from one semester, was able to identify about 70% of students who failed the course and 70% of students who passed the course in another semester with only LMS data extracted from the first four weeks. Originality/value: The results of this study are promising as they show the usability of LMS for early prediction of student course failure, which has the potential to provide students with timely feedback and support in higher education institutions.
+ISSN - ISSN-2398-5348
+ISSN - EISSN-2398-5356
+LA  - English
+PT  - Journal Articles
+PT  - Reports - Research
+
+OWN - ERIC
+TI  - Profiling and Modeling Student Learning Behaviors & Outcomes from Digital Learning Environments
+AU  - Varun Mandalapu
+OT  - Models
+OT  - Student Behavior
+OT  - Learning Management Systems
+OT  - Data Use
+OT  - Computation
+OT  - Methods
+OT  - Academic Achievement
+OT  - Psychology
+OT  - Theories
+OT  - Information Retrieval
+OT  - Data Processing
+OT  - Educational Environment
+OT  - Electronic Learning
+OT  - Learning Analytics
+OT  - Universities
+OT  - College Students
+JT  - ProQuest LLC
+SO  - Ph.D. Dissertation, University of Maryland, Baltimore County
+AID - http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&res_dat=xri:pqm&rft_dat=xri:pqdiss:28767837
+OID - ED641478
+DP  - 2021
+LID - http://eric.ed.gov/?id=ED641478
+AB  - Educational data mining focuses on exploring increasingly large-scale data from educational settings, such as Learning Management Systems (LMS), and developing computational methods to understand students' behaviors and learning settings better. There has been a multitude of research dedicated to studying the student learning process, leading to multiple commonly cited frameworks and theories that characterize students' learning behaviors. However, the most recent focus of interest argued that developing efficient models with actionable suggestions that help understand student learning behaviors and contribute to their academic outcomes is needed. Existing studies investigated various individual, emotional, and social factors related to student learning behaviors by analyzing fine-grained data samples collected by LMS at the student level but fail to incorporate the dynamics of learning behaviors and fail to examine the whole image of the student learning lives. For instance, most research in student learning behavior focuses on specific courses and related academic performance but did not consider that students always take multiple courses simultaneously. Therefore, the implications and knowledge from the static understanding of students' learning behavior in an isolated specific course may be limited to generate actionable strategies to help students. This dissertation was motivated to explore large-scale data, especially for examining the learning behavior's dynamics and developing student-centric models. The resulting knowledge has been recognized by publications in top-level international conferences in educational data mining and artificial intelligence in education. The first research attempt of my research introduced a new computational method based on psychological theories in affect dynamics to track dynamic student behaviors and developed a novel explanation method based on Local Interpretable Model-Agnostic Explanations (LIME). The second research attempt focused on developing computational models at the student level to predict their academic performance based on LMS data at the University of Maryland, Baltimore County. The findings from this work showed that student login volume and their prior performance significantly impact student performance. Additionally, this research focused on exploring causal relationships between student LMS behaviors and their academic performance. The causal analysis strengthened our findings in computational modeling by showing a significant cause-and-effect relationship between student login behaviors and their academic performance. The conclusions from this work will empower intervention techniques that improve student emotion regulation capabilities. The student-centric models developed in this study reported the positive impact of student login behaviors on their academic performance. This understanding will enable LMS developers and school administrators to design and develop interactive systems that deliver course content effectively. [The dissertation citations contained here are published with the permission of ProQuest LLC. Further reproduction is prohibited without permission. Copies of dissertations may be obtained by Telephone (800) 1-800-521-0600. Web page: http://www.proquest.com/en-US/products/dissertations/individuals.shtml.]
+ISBN - 979-8-7621-0144-8
+PT  - Dissertations/Theses - Doctoral Dissertations
+
+OWN - ERIC
+TI  - The Positive Impact of Deliberate Writing Course Design on Student Learning Experience and Performance
+AU  - Lancaster, Alia
+AU  - Moses, Scott
+AU  - Clark, Martyn
+AU  - Masters, Megan C.
+OT  - Writing Instruction
+OT  - Instructional Design
+OT  - Learning Analytics
+OT  - Integrated Learning Systems
+OT  - Learner Engagement
+OT  - Writing (Composition)
+OT  - Undergraduate Students
+OT  - Grades (Scholastic)
+OT  - Writing Achievement
+OT  - Writing Teachers
+OT  - Teacher Influence
+OT  - Prediction
+JT  - Journal of Learning Analytics
+SO  - v7 n3 p48-63 2020
+OID - EJ1281367
+VI  - 7
+IP  - 3
+PG  - 48-63
+DP  - 2020
+LID - http://eric.ed.gov/?id=EJ1281367
+AB  - Learning management systems (LMSs) are ubiquitous components of the academic technology experience for learners across a wide variety of instructional contexts. Learners' interactions within an LMS are often contingent upon how instructors architect a module, course, or program of study. Patterns related to these learner interactions, often referred to as learning analytics implementation (LAI), can be represented by combining system-level LMS data with course-level design decisions to inform more granular insights into learner behaviour. The purpose of this paper is to use the LAI framework, specifically the principles of coordination and comparison (Wise & Vytasek, 2017), to examine how learner interaction patterns associated with LMS-use variables correspond to deliberate learning design decisions and course outcomes for a group of courses in the same undergraduate writing program. Visualizations of learner activity exhibited similar patterns of learner engagement across courses, corroborating the observation that design decisions heavily influence learner behaviour. Predictive analyses demonstrated strong influence of LMS use on final grades while accounting for course instructor. That is, while page views were not related to final grade, the length of discussion entries was often predictive. These results suggest that students who practised writing more -- the main learning objective of this course -- had higher final grades, regardless of variations in instructor and semester.
+ISSN - EISSN-1929-7750
+LA  - English
+PT  - Journal Articles
+PT  - Reports - Research
+
+OWN - ERIC
+TI  - Grouping Students' Learning Patterns with Manaba's Log Data by K-Means
+AU  - Kai Li
+OT  - Student Evaluation
+OT  - Online Courses
+OT  - Electronic Learning
+OT  - Computer Literacy
+OT  - Data Analysis
+OT  - Data Use
+OT  - Data Collection
+OT  - Student Behavior
+OT  - Learning Analytics
+OT  - Learning Management Systems
+OT  - College Students
+OT  - COVID-19
+OT  - Pandemics
+OT  - School Closing
+JT  - International Association for Development of the Information Society
+SO  - Paper presented at the International Association for Development of the Information Society (IADIS) International Conference on Cognition and Exploratory Learning in the Digital Age (CELDA) (20th, Madeira Island, Portugal, Oct 21-23, 2023)
+OID - ED636603
+DP  - 2023
+LID - http://eric.ed.gov/?id=ED636603
+AB  - Assessing students' performance in online learning could be executed not only by the traditional forms of summative assessments such as using essays, assignments, and a final exam, etc. but also by more formative assessment approaches such as interaction activities, forum posts, etc. However, it is difficult for teachers to monitor and assess students' learning activities using the log data. To provide teachers with a more comprehensive view of students' distinct learning behaviour patterns, and to supply personalized interventions and support to meet the specific needs of each learning group, this study focuses on how to automatically acquire learning logs from Manaba, a Japanese commercial LMS, and how to cluster students' learning activities using the k-means algorithm. Firstly, we developed a program using Python to scrape students' learning activity log information from the Manaba web pages. We collected 56446 lines of clickstreams log data from 121 students in two computer literacy hybrid classes in the fall semester of 2022 (2022/9-2023/1). Secondly, we convert the raw logs into a structured dataset with 33 features which represent each student's learning activities. Then we extract and select 15 features representing three perspectives: raw activity, time on task, and learning frequency. Thirdly, we grouped students' learning activity patterns with the three perspectives into 5 clusters by the k-means clustering algorithm. As a result, this study identified five distinct learning activity patterns depending on how much, how long and how often the students learned online. For example, cluster 1 seldom learned but spent time on learning whom we considered the disengaged or struggling students, and cluster 5 had more learning activities with little time on each activity whom we considered the well-self-regulated students. The results of this study contribute to how to monitor students' learning activity in online learning and how to assess and support student's learning by their learning activity patterns. [For the full proceedings, see ED636095.]
+PT  - Speeches/Meeting Papers
+PT  - Reports - Research
+
+OWN - ERIC
+TI  - A Bayesian Classification Network-Based Learning Status Management System in an Intelligent Classroom
+AU  - Chiu, Chuang-Kai
+AU  - Tseng, Judy C. R.
+OT  - Bayesian Statistics
+OT  - Classification
+OT  - Classroom Techniques
+OT  - Educational Technology
+OT  - Artificial Intelligence
+OT  - Learning Analytics
+OT  - Integrated Learning Systems
+OT  - Accuracy
+OT  - Program Effectiveness
+OT  - Classroom Observation Techniques
+JT  - Educational Technology & Society
+SO  - v24 n3 p256-267 Jul 2021
+AID - https://www.j-ets.net/collection/published-issues
+OID - EJ1306110
+VI  - 24
+IP  - 3
+PG  - 256-267
+DP  - Jul 2021
+LID - http://eric.ed.gov/?id=EJ1306110
+AB  - Awareness of students' learning status, and maintaining students' focus and attention during class are important issues in classroom management. Several observation instruments have been designed for human observers to document students' engagement in class, but the processes are time-consuming and laborious. Recently, with the development of artificial intelligent technologies, artificial intelligence in education (AIED) has become an important research topic. Several studies have applied image recognition technologies to determine students' learning status. However, little research has employed both sensor technology and image recognition technology in learning status analysis. Moreover, it remains unknown if learning status analysis is accurate enough to substitute for human observers. Furthermore, no feedback has been provided individually to students to manage their learning status by maintaining their attention in class. In this paper, a learning status management system in an intelligent classroom is proposed. Several types of information about students were detected and collected by both sensor technology and image recognition technology, and a Bayesian classification network was employed to inference the students' learning status. Moreover, the system includes a feedback mechanism, which not only provides the results of the just-in-time learning status analysis to teachers, but also notifies students who are detected as being unfocused in class. Two experiments were conducted to verify the accuracy and effectiveness of the proposed system. Results showed that the learning status analysis highly corresponded to the observation of human beings, and the students were more attentive in class.
+ISSN - EISSN-1436-4522
+LA  - English
+PT  - Journal Articles
+PT  - Reports - Research
+
+OWN - ERIC
+TI  - Influence of Gamification on Student Engagement in Online Discussions Using Self-Determination Theory
+AU  - Rico Putra Pradana
+AU  - Ave Adriana Pinem
+AU  - Putu Wuri Handayani
+OT  - Learner Engagement
+OT  - Game Based Learning
+OT  - Scoring Rubrics
+OT  - Comparative Analysis
+OT  - Web Sites
+OT  - Computer Mediated Communication
+OT  - Learning Management Systems
+OT  - Student Attitudes
+OT  - College Students
+OT  - Learning Analytics
+OT  - Self Determination
+OT  - Group Discussion
+OT  - Learning Activities
+OT  - Distance Education
+OT  - COVID-19
+OT  - Pandemics
+OT  - Foreign Countries
+JT  - Journal of Educators Online
+SO  - v21 n2 2024
+OID - EJ1427633
+VI  - 21
+IP  - 2
+DP  - 2024
+LID - http://eric.ed.gov/?id=EJ1427633
+AB  - This study uses self-determination theory to examine the effect of gamification on the students' behavioral, emotional, and cognitive engagement in online discussion forums by providing more instructor badges than automatic badges and using a quasi-experimental one-group pretest-posttest design. Behavioral engagement was measured using the number of posts and replies; emotional engagement was measured using perceived relatedness; and cogitative engagement was measured by the quality of the post/reply's content. Sixty participants used the developed online discussion website and held two 3-day discussion sessions (non-gamified and gamified) with different topics. The data were collected using user logs (number of posts and replies), questionnaire responses (perceived relatedness), and assessment rubrics (scores on the post/reply content), analyzed using the one-way repeated measures analysis of variance. The results revealed that gamification affected emotional engagement, which was influenced by the "like" feature, which made it easier for participants to appreciate others' activities. However, this feature also decreased the number of replies (behavioral engagement) because the students perceived "liking" as an easier way to appreciate other posts/replies instead of writing a reply. The number of posts also decreased since participants' motivation in the second session tended to focus on the quality of the content caused by the badge list page, which guides the expected best content from the participant. This study can provide guidance to universities in implementing gamification in LMS.
+ISSN - EISSN-1547-500X
+LA  - English
+PT  - Journal Articles
+PT  - Reports - Research
+PT  - Tests/Questionnaires
+
+OWN - ERIC
+TI  - Terracotta: A Tool for Conducting Experimental Research on Student Learning
+AU  - Motz, Benjamin A.
+AU  - Üner, Öykü
+AU  - Jankowski, Harmony E.
+AU  - Christie, Marcus A.
+AU  - Burgas, Kim
+AU  - del Blanco Orobitg, Diego
+AU  - McDaniel, Mark A.
+OT  - Learning Analytics
+OT  - Experiments
+OT  - Learning Processes
+OT  - Learning Management Systems
+OT  - Educational Research
+OT  - Randomized Controlled Trials
+OT  - Open Source Technology
+OT  - Online Courses
+OT  - Informed Consent
+OT  - Learning Activities
+OT  - Research Design
+OT  - Demonstration Programs
+OT  - Undergraduate Students
+JT  - Grantee Submission
+AID - https://doi.org/10.3758/s13428-023-02164-8
+OID - ED629242
+DP  - 2023
+LID - http://eric.ed.gov/?id=ED629242
+AB  - For researchers seeking to improve education, a common goal is to identify teaching practices that have causal benefits in classroom settings. To test whether an instructional practice exerts a causal influence on an outcome measure, the most straightforward and compelling method is to conduct an experiment. While experimentation is common in laboratory studies of learning, experimentation is increasingly rare in classroom settings, and to date, researchers have argued it is prohibitively expensive and difficult to conduct experiments on education in situ. To address this challenge, we present Terracotta (Tool for Education Research with RAndomized COnTrolled TriAls), an open-source web application that integrates with a learning management system to provide a comprehensive experimental research platform within an online class site. Terracotta automates randomization, informed consent, experimental manipulation of different versions of learning activities, and export of de-identified research data. Here we describe these features, and the results of a live classroom demonstration study using Terracotta, a preregistered replication of McDaniel et al. ("Journal of Applied Research in Memory and Cognition," 1(1), 18-26, 2012). Using Terracotta, we experimentally manipulated online review assignments so that consenting students alternated, on a weekly basis, between taking multiple-choice quizzes (retrieval practice) and reading answers to these quizzes (restudy). Students' performance on subsequent exams was significantly improved for items that had been in retrieval practice review assignments. This successful replication demonstrates that Terracotta can be used to experimentally manipulate consequential aspects of students' experiences in education settings. [This is online version of an article published in "Behavior Research Methods."]
+GR  - R305N210035
+PT  - Reports - Research
+
+OWN - ERIC
+TI  - Curriculum Analytics of Course Choices: Links with Academic Performance
+AU  - Namrata Srivastava
+AU  - Sadia Nawaz
+AU  - Yi-Shan Tsai
+AU  - Dragan Gaševic
+OT  - Learning Analytics
+OT  - Decision Making
+OT  - Elective Courses
+OT  - Undergraduate Students
+OT  - Health Sciences
+OT  - Student Attitudes
+OT  - Course Selection (Students)
+OT  - Academic Achievement
+OT  - Grading
+OT  - High Achievement
+OT  - Difficulty Level
+OT  - Strategic Planning
+OT  - Low Achievement
+OT  - Grade Point Average
+OT  - Learning Management Systems
+JT  - Journal of Learning Analytics
+SO  - v11 n1 p116-131 2024
+OID - EJ1423443
+VI  - 11
+IP  - 1
+PG  - 116-131
+DP  - 2024
+LID - http://eric.ed.gov/?id=EJ1423443
+AB  - In a higher education context, students are expected to take charge of their learning by deciding "what" to learn and "how" to learn. While the learning analytics (LA) community has seen increasing research on the "how" to learn part (i.e., researching methods for supporting students in their learning journey), the "what" to learn part is still underinvestigated. We present a case study of curriculum analytics and its application to a dataset of 243 students of the bachelor's program in the broad discipline of health sciences to explore the effects of course choices on students' academic performance. Using curriculum metrics such as grading stringency, course temporal position, and duration, we investigated how course choices differed between high- and low-performing students using both temporal and sequential analysis methods. We found that high-performing students were likely to pick an elective course of low difficulty. It appeared that these students were more strategic in terms of their course choices than their low-performing peers. Generally, low-performing students seemed to have made suboptimal choices when selecting elective courses; e.g., when they picked an elective course of high difficulty, they were less likely to pick a following course of low difficulty. The findings of this study have design implications for researchers, program directors, and coordinators, because they can use the results to (i) update the course sequencing, (ii) guide students about course choices based on their current GPA (such as through course recommendation dashboards), (iii) identify bottleneck courses, and (iv) assist higher education institutions in planning a more balanced course roadmap to help students manage their workload effectively.
+ISSN - EISSN-1929-7750
+LA  - English
+PT  - Journal Articles
+PT  - Reports - Research
+
+OWN - ERIC
+TI  - Offline Collaborative Learning Approach for Remote Northern Territory Students
+AU  - Haixiao Dai
+AU  - Phong Lam Nguyen
+AU  - Cat Kutay
+OT  - Foreign Countries
+OT  - Cooperative Learning
+OT  - Rural Schools
+OT  - Asynchronous Communication
+OT  - Educational Technology
+OT  - Information Storage
+OT  - College Faculty
+OT  - College Students
+OT  - Internet
+OT  - Learning Management Systems
+JT  - Interactive Technology and Smart Education
+SO  - v21 n1 p67-82 2024
+AID - http://dx.doi.org/10.1108/ITSE-05-2022-0063
+OID - EJ1407877
+VI  - 21
+IP  - 1
+PG  - 67-82
+DP  - 2024
+LID - http://eric.ed.gov/?id=EJ1407877
+AB  - Purpose: Digital learning systems are crucial for education and data collected can analyse students learning performances to improve support. The purpose of this study is to design and build an asynchronous hardware and software system that can store data on a local device until able to share. It was developed for staff and students at university who are using the limited internet access in areas such as remote Northern Territory. This system can asynchronously link the users' devices and the central server at the university using unstable internet. Design/methodology/approach: A Learning Box has been build based on minicomputer and a web learning management system (LMS). This study presents different options to create such a system and discusses various approaches for data syncing. The structure of the final setup is a Moodle (Modular Object Oriented Developmental Learning Environment) LMS on a Raspberry Pi which provides a Wi-Fi hotspot. The authors worked with lecturers from X University who work in remote Northern Territory regions to test this and provide feedback. This study also considered suitable data collection and techniques that can be used to analyse the available data to support learning analysis by the staff. This research focuses on building an asynchronous hardware and software system that can store data on a local device until able to share. It was developed for staff and students at university who are using the limited internet access in areas such as remote Northern Territory. This system can asynchronously link the users' devices and the central server at the university using unstable internet. Digital learning systems are crucial for education, and data collected can analyse students learning performances to improve support. Findings: The resultant system has been tested in various scenarios to ensure it is robust when students' submissions are collected. Furthermore, issues around student familiarity and ability to use online systems have been considered due to early feedback. Research limitations/implications: Monitoring asynchronous collaborative learning systems through analytics can assist students learning in their own time. Learning Hubs can be easily set up and maintained using micro-computers now easily available. A phone interface is sufficient for learning when video and audio submissions are supported in the LMS. Practical implications: This study shows digital learning can be implemented in an offline environment by using a Raspberry Pi as LMS server. Offline collaborative learning in remote communities can be achieved by applying asynchronized data syncing techniques. Also asynchronized data syncing can be reliably achieved by using change logs and incremental syncing technique. Social implications: Focus on audio and video submission allows engagement in higher education by students with lower literacy but higher practice skills. Curriculum that clearly supports the level of learning required for a job needs to be developed, and the assumption that literacy is part of the skilled job in the workplace needs to be removed. Originality/value: To the best of the authors' knowledge, this is the first remote asynchronous collaborative LMS environment that has been implemented. This provides the hardware and software for opportunities to share learning remotely. Material to support low literacy students is also included.
+ISSN - ISSN-1741-5659
+ISSN - EISSN-1758-8510
+LA  - English
+PT  - Journal Articles
+PT  - Reports - Research
+
+OWN - ERIC
+TI  - Session-Based Course Recommendation Frameworks Using Deep Learning
+AU  - Khan, Md Akib Zabed
+AU  - Polyzou, Agoritsa
+OT  - Course Selection (Students)
+OT  - Learning Analytics
+OT  - Academic Advising
+OT  - Decision Making
+OT  - Higher Education
+OT  - Academic Achievement
+OT  - Educational Experience
+OT  - Required Courses
+OT  - Elective Courses
+OT  - Models
+OT  - Universities
+OT  - Longitudinal Studies
+OT  - Sequential Approach
+OT  - Learning Management Systems
+OT  - College Students
+OT  - Computer Software
+OT  - Preferences
+JT  - International Educational Data Mining Society
+SO  - Paper presented at the International Conference on Educational Data Mining (EDM) (16th, Bengaluru, India, Jul 11-14, 2023)
+OID - ED630883
+DP  - 2023
+LID - http://eric.ed.gov/?id=ED630883
+AB  - Academic advising plays an important role in students' decision-making in higher education. Data-driven methods provide useful recommendations to students to help them with degree completion. Several course recommendation models have been proposed in the literature to recommend courses for the next semester. One aspect of the data that has yet to be explored is the suitability of the recommended courses taken together in a semester. Students may face more difficulty coping with the workload of courses if there is no relationship among courses taken within a semester. To address this problem, we propose to employ session-based approaches to recommend a set of courses for the next semester. In particular, we test two session-based recommendation models, CourseBEACON and CourseDREAM. Our experimental evaluation shows that session-based methods outperform existing popularity-based, sequential, and non-sequential recommendation approaches. Accurate course recommendation can lead to better student advising, which, in turn, can lead to better student performance, lower dropout rates, and better overall student experience and satisfaction. [For the complete proceedings, see ED630829.]
+PT  - Speeches/Meeting Papers
+PT  - Reports - Evaluative
+
+OWN - ERIC
+TI  - Maintaining Students' Emotional Engagement amid Emergency Remote Teaching: Spotlighting the Indonesian EFL Teachers' Perspectives
+AU  - Yuyus Saputra
+AU  - Fuad Abdullah
+OT  - Distance Education
+OT  - Emotional Response
+OT  - English (Second Language)
+OT  - Second Language Instruction
+OT  - Second Language Learning
+OT  - Educational Change
+OT  - Teacher Attitudes
+OT  - Learner Engagement
+OT  - Teacher Student Relationship
+OT  - Instructional Materials
+OT  - Teaching Methods
+OT  - Undergraduate Students
+OT  - Learning Management Systems
+OT  - Learning Activities
+OT  - Technology Integration
+OT  - Learning Analytics
+OT  - Language Teachers
+OT  - College Faculty
+OT  - Foreign Countries
+JT  - MEXTESOL Journal
+SO  - v47 n4 2023
+OID - EJ1420646
+VI  - 47
+IP  - 4
+DP  - 2023
+LID - http://eric.ed.gov/?id=EJ1420646
+AB  - Language learning engagement has awakened interest in recent decades. This has taken place because engagement enables students to perform physical and mental, goal-directed, and purpose-driven activities. Unfortunately, keeping students emotionally engaged during Emergency Remote Teaching (ERT) remains under-researched. Therefore, this study focused on scrutinizing how teachers maintained the students' emotional engagement during Emergency Remote Teaching, especially in the Indonesian English as a foreign language (EFL) context. English Education Department teachers at a state-owned university in Indonesia were involved as the research participants. Semi-structured interviews were conducted with two teachers during the data collection. The data were analyzed with Thematic Analysis (TA) (Braun & Clarke, 2006). The findings reported six main themes, namely (1) implementing proper teaching materials and instructional platforms during emergency remote teaching, (2) actualizing tolerance-based learning activities, (3) performing self-adaptation to technology-enhanced language teaching, (4) deploying contextualized teaching methods during emergency remote teaching, (5) applying eclectic instructional media during emergency remote teaching, and (6) utilizing constructive and humanizing online learning monitoring. Practically, TESOL practitioners, students, and policymakers can benefit from this study to realize how to maintain students' emotional engagement while performing teaching and learning activities during ERT.
+ISSN - EISSN-2395-9908
+LA  - English
+PT  - Journal Articles
+PT  - Reports - Research
+PT  - Tests/Questionnaires
+
+OWN - ERIC
+TI  - Bayesian Generative Modelling of Student Results in Course Networks
+AU  - Marcel R. Haas
+AU  - Colin Caprani
+AU  - Benji T. van Beurden
+OT  - Bayesian Statistics
+OT  - Computer Software
+OT  - Learning Analytics
+OT  - Grades (Scholastic)
+OT  - Learning Management Systems
+OT  - Course Evaluation
+OT  - Networks
+OT  - Correlation
+OT  - Curriculum Evaluation
+JT  - Journal of Learning Analytics
+SO  - v10 n3 p135-152 2023
+OID - EJ1411478
+VI  - 10
+IP  - 3
+PG  - 135-152
+DP  - 2023
+LID - http://eric.ed.gov/?id=EJ1411478
+AB  - We present an innovative modelling technique that simultaneously constrains student performance, course difficulty, and the sensitivity with which a course can differentiate between students by means of grades. Grade lists are the only necessary ingredient. Networks of courses will be constructed where the edges are populations of students that took both connected course nodes. Using idealized experiments and two real-world data sets, we show that the model, even though simple in its set-up, can constrain the properties of courses very well, as long as some basic requirements in the data set are met: (1) significant overlap in student populations, and thus information exchange through the network; (2) non-zero variance in the grades for a given course; and (3) some correlation between grades for different courses. The model can then be used to evaluate a curriculum, a course, or even subsets of students for a very wide variety of applications, ranging from program accreditation to exam fraud detection. We publicly release the code with examples that fully recreate the results presented here.
+ISSN - EISSN-1929-7750
+LA  - English
+PT  - Journal Articles
+PT  - Reports - Descriptive
+
+OWN - ERIC
+TI  - Leveraging Complexity Frameworks to Refine Theories of Engagement: Advancing Self-Regulated Learning in the Age of Artificial Intelligence
+AU  - Hilpert, Jonathan C.
+AU  - Greene, Jeffrey A.
+AU  - Bernacki, Matthew
+OT  - Learning Theories
+OT  - Independent Study
+OT  - Artificial Intelligence
+OT  - Biology
+OT  - Science Achievement
+OT  - Learning Strategies
+OT  - Predictor Variables
+OT  - Grades (Scholastic)
+OT  - Intervention
+OT  - Technology Uses in Education
+OT  - Electronic Learning
+OT  - Markov Processes
+OT  - Learning Analytics
+OT  - Learning Management Systems
+JT  - British Journal of Educational Technology
+SO  - v54 n5 p1204-1221 Sep 2023
+AID - http://dx.doi.org/10.1111/bjet.13340
+OID - EJ1387911
+VI  - 54
+IP  - 5
+PG  - 1204-1221
+DP  - Sep 2023
+LID - http://eric.ed.gov/?id=EJ1387911
+AB  - Capturing evidence for dynamic changes in self-regulated learning (SRL) behaviours resulting from interventions is challenging for researchers. In the current study, we identified students who were likely to do poorly in a biology course and those who were likely to do well. Then, we randomly assigned a portion of the students predicted to perform poorly to a science of learning to learn intervention where they were taught SRL study strategies. Learning outcome and log data (257 K events) were collected from n = 226 students. We used a complex systems framework to model the differences in SRL including the amount, interrelatedness, density and regularity of engagement captured in digital trace data (ie, logs). Differences were compared between students who were predicted to: (1) perform poorly (control, n = 48); (2) perform poorly and received intervention (treatment, n = 95); and (3) perform well (not flagged, n = 83). Results indicated that the regularity of students' engagement was predictive of course grade, and that the intervention group exhibited increased regularity in engagement over the control group immediately after the intervention and maintained that increase over the course of the semester. We discuss the implications of these findings in relation to the future of artificial intelligence and potential uses for monitoring student learning in online environments.
+ISSN - ISSN-0007-1013
+ISSN - EISSN-1467-8535
+LA  - English
+PT  - Journal Articles
+PT  - Reports - Research
+
+OWN - ERIC
+TI  - Personalized Early Warning of Learning Performance for College Students: A Multilevel Approach via Cognitive Ability and Learning State Modeling
+AU  - Hua Ma
+AU  - Wen Zhao
+AU  - Yuqi Tang
+AU  - Peiji Huang
+AU  - Haibin Zhu
+AU  - Wensheng Tang
+AU  - Keqin Li
+OT  - College Students
+OT  - Learning Analytics
+OT  - Learning Management Systems
+OT  - Academic Achievement
+OT  - Cognitive Ability
+OT  - Learner Engagement
+OT  - Accuracy
+OT  - Educational Quality
+OT  - Correlation
+OT  - Risk
+OT  - Models
+OT  - Learning Processes
+OT  - Algorithms
+OT  - Prediction
+JT  - IEEE Transactions on Learning Technologies
+SO  - v17 p1440-1453 2024
+AID - http://dx.doi.org/10.1109/TLT.2024.3382217
+OID - EJ1421901
+VI  - 17
+PG  - 1440-1453
+DP  - 2024
+LID - http://eric.ed.gov/?id=EJ1421901
+AB  - To prevent students from learning risks and improve teachers' teaching quality, it is of great significance to provide accurate early warning of learning performance to students by analyzing their interactions through an e-learning system. In existing research, the correlations between learning risks and students' changing cognitive abilities or learning states are still underexplored, and the personalized early warning is unavailable for students at different levels. To accurately identify the possible learning risks faced by students at different levels, this article proposes a personalized early warning approach to learning performance for college students via cognitive ability and learning state modeling. In this approach, students' learning process data and historical performance data are analyzed to track students' cognitive abilities in the whole learning process, and model their learning states from four dimensions, i.e., learning quality, learning engagement, latent learning state, and historical learning state. Then, the Adaboost algorithm is used to predict students' learning performance, and an evaluation rule with five levels is designed to dynamically provide multilevel personalized early warning to students. Finally, the comparative experiments based on real-world datasets demonstrate that the proposed approach could effectively predict all students' learning performance, and provide accurate early warning services to them.
+ISSN - EISSN-1939-1382
+LA  - English
+PT  - Journal Articles
+PT  - Reports - Descriptive
+
